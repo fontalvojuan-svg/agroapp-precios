@@ -1,65 +1,334 @@
 {
- "actualizado": "2026-11-03T21:07-05:00",
- "fecha_datos": "2026-11-03",
+ "actualizado": "2026-11-06T22:32-05:00",
+ "fecha_datos": "2026-11-06",
  "fuente": "DANE - SIPSA",
  "mercados": {
+  "Armenia, Mercar": {
+   "ciudad": "Armenia",
+   "precios": [
+    {
+     "producto": "Ahuyama",
+     "promedio": 1033.0,
+     "min": 1000.0,
+     "max": 1100.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Arracacha*",
+     "promedio": 2833.0,
+     "min": 2666.6666666666665,
+     "max": 3000.0,
+     "fecha": "2026-11-05",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Arveja verde en vaina",
+     "promedio": 5600.0,
+     "min": 5600.0,
+     "max": 5600.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Banano*",
+     "promedio": 1467.0,
+     "min": 1400.0,
+     "max": 1500.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Cebolla cabezona blanca",
+     "promedio": 1780.0,
+     "min": 1740.0,
+     "max": 1800.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Cebolla junca",
+     "promedio": 2810.0,
+     "min": 2714.285714285714,
+     "max": 2857.1428571428573,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Chócolo mazorca",
+     "promedio": 1071.0,
+     "min": 1071.4285714285713,
+     "max": 1071.4285714285713,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Coco",
+     "promedio": 3633.0,
+     "min": 3600.0,
+     "max": 3666.6666666666665,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Fríjol verde*",
+     "promedio": 5867.0,
+     "min": 5600.0,
+     "max": 6000.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Granadilla",
+     "promedio": 7444.0,
+     "min": 7333.333333333333,
+     "max": 7666.666666666667,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Guayaba*",
+     "promedio": 2533.0,
+     "min": 2500.0,
+     "max": 2600.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Habichuela",
+     "promedio": 3520.0,
+     "min": 3360.0,
+     "max": 3600.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Lechuga batavia",
+     "promedio": 1111.0,
+     "min": 1066.6666666666667,
+     "max": 1133.3333333333333,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Limón Común",
+     "promedio": 5000.0,
+     "min": 5000.0,
+     "max": 5000.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Limón Tahití",
+     "promedio": 1733.0,
+     "min": 1700.0,
+     "max": 1800.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Lulo",
+     "promedio": 6200.0,
+     "min": 6000.0,
+     "max": 6400.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mandarina*",
+     "promedio": 1567.0,
+     "min": 1500.0,
+     "max": 1600.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mango tommy",
+     "promedio": 5000.0,
+     "min": 5000.0,
+     "max": 5000.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Manzana royal gala",
+     "promedio": 9211.0,
+     "min": 8947.368421052632,
+     "max": 9473.684210526315,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Maracuyá",
+     "promedio": 4033.0,
+     "min": 4000.0,
+     "max": 4100.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mora de Castilla",
+     "promedio": 7333.0,
+     "min": 7000.0,
+     "max": 7500.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Papa criolla",
+     "promedio": 3944.0,
+     "min": 3833.3333333333335,
+     "max": 4000.0,
+     "fecha": "2026-11-05",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Papa negra*",
+     "promedio": 3050.0,
+     "min": 3000.0,
+     "max": 3100.0,
+     "fecha": "2026-11-05",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Papaya maradol",
+     "promedio": 2100.0,
+     "min": 2000.0,
+     "max": 2200.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Pepino cohombro",
+     "promedio": 3467.0,
+     "min": 3400.0,
+     "max": 3500.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Pimentón",
+     "promedio": 4400.0,
+     "min": 4200.0,
+     "max": 4500.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Piña *",
+     "promedio": 3133.0,
+     "min": 3000.0,
+     "max": 3200.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Plátano hartón verde",
+     "promedio": 2367.0,
+     "min": 2300.0,
+     "max": 2400.0,
+     "fecha": "2026-11-05",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Remolacha",
+     "promedio": 1253.0,
+     "min": 1200.0,
+     "max": 1280.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Tomate de árbol",
+     "promedio": 3160.0,
+     "min": 3080.0,
+     "max": 3200.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Tomate*",
+     "promedio": 3455.0,
+     "min": 3409.090909090909,
+     "max": 3545.4545454545455,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Yuca*",
+     "promedio": 2000.0,
+     "min": 2000.0,
+     "max": 2000.0,
+     "fecha": "2026-11-05",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Zanahoria",
+     "promedio": 1206.0,
+     "min": 1166.6666666666667,
+     "max": 1250.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    }
+   ]
+  },
   "Bogotá, D.C., Corabastos": {
    "ciudad": "Bogotá",
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 10563.0,
+     "promedio": 11063.0,
      "min": 10000.0,
-     "max": 11000.0,
-     "fecha": "2026-11-03",
+     "max": 12000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Ahuyama",
-     "promedio": 3775.0,
-     "min": 3500.0,
-     "max": 4000.0,
-     "fecha": "2026-11-03",
+     "promedio": 4113.0,
+     "min": 4000.0,
+     "max": 4500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Arracacha*",
-     "promedio": 3688.0,
+     "promedio": 3667.0,
      "min": 3333.3333333333335,
-     "max": 4166.666666666667,
-     "fecha": "2026-11-03",
+     "max": 4000.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Arveja verde en vaina",
-     "promedio": 6150.0,
-     "min": 6000.0,
-     "max": 6400.0,
-     "fecha": "2026-11-03",
+     "promedio": 7900.0,
+     "min": 7600.0,
+     "max": 8000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Banano*",
-     "promedio": 2300.0,
+     "promedio": 2388.0,
      "min": 2000.0,
      "max": 2600.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 1825.0,
+     "promedio": 1750.0,
      "min": 1600.0,
      "max": 2000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 1583.0,
+     "promedio": 1500.0,
      "min": 1333.3333333333333,
      "max": 1666.6666666666667,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -67,71 +336,71 @@
      "promedio": 1825.0,
      "min": 1600.0,
      "max": 2000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Coco",
-     "promedio": 5469.0,
+     "promedio": 5521.0,
      "min": 5000.0,
      "max": 5833.333333333333,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Fríjol verde*",
-     "promedio": 6100.0,
+     "promedio": 6200.0,
      "min": 6000.0,
      "max": 6400.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Granadilla",
-     "promedio": 7125.0,
-     "min": 6666.666666666667,
+     "promedio": 6792.0,
+     "min": 6000.0,
      "max": 7666.666666666667,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Guayaba*",
-     "promedio": 2902.0,
-     "min": 2500.0,
-     "max": 3214.285714285714,
-     "fecha": "2026-11-03",
+     "promedio": 3214.0,
+     "min": 2857.1428571428573,
+     "max": 3571.4285714285716,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 4750.0,
-     "min": 4500.0,
+     "promedio": 4771.0,
+     "min": 4666.666666666667,
      "max": 5000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 3167.0,
+     "promedio": 3313.0,
      "min": 3000.0,
      "max": 3500.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 2310.0,
-     "min": 2142.8571428571427,
-     "max": 2428.5714285714284,
-     "fecha": "2026-11-02",
+     "promedio": 2155.0,
+     "min": 2000.0,
+     "max": 2285.714285714286,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Limón Tahití",
-     "promedio": 2500.0,
-     "min": 2428.5714285714284,
+     "promedio": 2393.0,
+     "min": 2142.8571428571427,
      "max": 2571.4285714285716,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -139,31 +408,31 @@
      "promedio": 4625.0,
      "min": 4400.0,
      "max": 4800.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mandarina*",
-     "promedio": 3807.0,
+     "promedio": 3920.0,
      "min": 3636.3636363636365,
      "max": 4090.909090909091,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mango tommy",
-     "promedio": 6146.0,
-     "min": 5833.333333333333,
-     "max": 6666.666666666667,
-     "fecha": "2026-11-03",
+     "promedio": 5938.0,
+     "min": 5416.666666666667,
+     "max": 6250.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Manzana royal gala",
-     "promedio": 8158.0,
+     "promedio": 8092.0,
      "min": 7894.736842105263,
      "max": 8421.052631578947,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -171,39 +440,39 @@
      "promedio": 4750.0,
      "min": 4500.0,
      "max": 5000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 9542.0,
+     "promedio": 9438.0,
      "min": 9166.666666666666,
      "max": 10000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Naranja*",
-     "promedio": 2313.0,
+     "promedio": 2219.0,
      "min": 2000.0,
      "max": 2500.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 4278.0,
-     "min": 4000.0,
-     "max": 4444.444444444444,
-     "fecha": "2026-11-03",
+     "promedio": 5556.0,
+     "min": 5333.333333333333,
+     "max": 5777.777777777777,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 3100.0,
+     "promedio": 3125.0,
      "min": 3000.0,
      "max": 3200.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
@@ -211,15 +480,15 @@
      "promedio": 3688.0,
      "min": 3000.0,
      "max": 4000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 5850.0,
-     "min": 5500.0,
-     "max": 6000.0,
-     "fecha": "2026-11-03",
+     "promedio": 6188.0,
+     "min": 6000.0,
+     "max": 6500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -227,63 +496,63 @@
      "promedio": 2479.0,
      "min": 2333.3333333333335,
      "max": 2666.6666666666665,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Plátano guineo",
-     "promedio": 2288.0,
+     "promedio": 2413.0,
      "min": 2000.0,
      "max": 2500.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 2813.0,
+     "promedio": 2844.0,
      "min": 2500.0,
      "max": 3000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Remolacha",
-     "promedio": 1000.0,
-     "min": 833.3333333333334,
+     "promedio": 1063.0,
+     "min": 1000.0,
      "max": 1166.6666666666667,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 2700.0,
+     "promedio": 2550.0,
      "min": 2400.0,
-     "max": 3200.0,
-     "fecha": "2026-11-03",
+     "max": 2800.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 3608.0,
+     "promedio": 3438.0,
      "min": 3181.818181818182,
-     "max": 4090.909090909091,
-     "fecha": "2026-11-03",
+     "max": 3636.3636363636365,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2604.0,
+     "promedio": 2542.0,
      "min": 2333.3333333333335,
      "max": 2666.6666666666665,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Zanahoria",
-     "promedio": 1819.0,
+     "promedio": 1833.0,
      "min": 1666.6666666666667,
      "max": 2000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -293,194 +562,194 @@
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 9250.0,
-     "min": 9000.0,
-     "max": 10000.0,
-     "fecha": "2026-11-03",
+     "promedio": 10500.0,
+     "min": 10000.0,
+     "max": 11000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Ahuyama",
-     "promedio": 2200.0,
-     "min": 2100.0,
-     "max": 2300.0,
-     "fecha": "2026-11-03",
+     "promedio": 2650.0,
+     "min": 2600.0,
+     "max": 2700.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Arracacha*",
-     "promedio": 4080.0,
-     "min": 3960.0,
+     "promedio": 4100.0,
+     "min": 4000.0,
      "max": 4200.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-05",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Arveja verde en vaina",
-     "promedio": 5250.0,
-     "min": 5200.0,
-     "max": 5400.0,
-     "fecha": "2026-11-03",
+     "promedio": 6700.0,
+     "min": 6600.0,
+     "max": 6800.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Banano*",
-     "promedio": 2833.0,
+     "promedio": 2850.0,
      "min": 2800.0,
      "max": 2900.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 1825.0,
+     "promedio": 1833.0,
      "min": 1800.0,
      "max": 1900.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 1289.0,
+     "promedio": 1302.0,
      "min": 1250.0,
      "max": 1406.25,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Chócolo mazorca",
-     "promedio": 1800.0,
-     "min": 1600.0,
+     "promedio": 1840.0,
+     "min": 1760.0,
      "max": 1920.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Fríjol verde*",
-     "promedio": 6150.0,
-     "min": 6000.0,
-     "max": 6400.0,
-     "fecha": "2026-11-03",
+     "promedio": 5700.0,
+     "min": 5600.0,
+     "max": 5800.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Granadilla",
      "promedio": 9464.0,
      "min": 9285.714285714286,
-     "max": 10000.0,
-     "fecha": "2026-11-03",
+     "max": 9642.857142857143,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Guayaba*",
-     "promedio": 2750.0,
-     "min": 2600.0,
-     "max": 2800.0,
-     "fecha": "2026-11-03",
+     "promedio": 3100.0,
+     "min": 3000.0,
+     "max": 3200.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 4750.0,
-     "min": 4500.0,
-     "max": 5000.0,
-     "fecha": "2026-11-03",
+     "promedio": 3063.0,
+     "min": 3000.0,
+     "max": 3250.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 1625.0,
+     "promedio": 1611.0,
      "min": 1500.0,
      "max": 1666.6666666666667,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 3573.0,
-     "min": 3520.0,
+     "promedio": 3400.0,
+     "min": 3200.0,
      "max": 3600.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Limón Tahití",
-     "promedio": 2150.0,
+     "promedio": 2200.0,
      "min": 2000.0,
-     "max": 2200.0,
-     "fecha": "2026-11-03",
+     "max": 2400.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 5350.0,
+     "promedio": 5467.0,
      "min": 5200.0,
-     "max": 5400.0,
-     "fecha": "2026-11-03",
+     "max": 5600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mandarina*",
-     "promedio": 2663.0,
-     "min": 2608.695652173913,
-     "max": 2826.086956521739,
-     "fecha": "2026-11-03",
+     "promedio": 2899.0,
+     "min": 2826.086956521739,
+     "max": 3043.478260869565,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mango tommy",
-     "promedio": 5950.0,
-     "min": 5800.0,
-     "max": 6000.0,
-     "fecha": "2026-11-03",
+     "promedio": 6067.0,
+     "min": 6000.0,
+     "max": 6200.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Manzana royal gala",
-     "promedio": 7963.0,
-     "min": 7850.0,
-     "max": 8000.0,
-     "fecha": "2026-11-03",
+     "promedio": 8250.0,
+     "min": 8000.0,
+     "max": 8500.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Maracuyá",
-     "promedio": 4875.0,
-     "min": 4500.0,
+     "promedio": 4933.0,
+     "min": 4800.0,
      "max": 5000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 6700.0,
-     "min": 6400.0,
-     "max": 6800.0,
-     "fecha": "2026-11-03",
+     "promedio": 7333.0,
+     "min": 7200.0,
+     "max": 7600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Naranja*",
-     "promedio": 1620.0,
+     "promedio": 1667.0,
      "min": 1600.0,
-     "max": 1680.0,
-     "fecha": "2026-11-03",
+     "max": 1800.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 3900.0,
-     "min": 3800.0,
-     "max": 4000.0,
-     "fecha": "2026-11-03",
+     "promedio": 3200.0,
+     "min": 3200.0,
+     "max": 3200.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 2750.0,
+     "promedio": 2767.0,
      "min": 2700.0,
      "max": 2800.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
@@ -488,23 +757,23 @@
      "promedio": 2000.0,
      "min": 2000.0,
      "max": 2000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 6875.0,
-     "min": 6500.0,
-     "max": 7000.0,
-     "fecha": "2026-11-03",
+     "promedio": 6250.0,
+     "min": 6000.0,
+     "max": 6500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Piña *",
-     "promedio": 2625.0,
-     "min": 2500.0,
-     "max": 2666.6666666666665,
-     "fecha": "2026-11-03",
+     "promedio": 2750.0,
+     "min": 2666.6666666666665,
+     "max": 2833.3333333333335,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -512,47 +781,47 @@
      "promedio": 3600.0,
      "min": 3600.0,
      "max": 3600.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Remolacha",
      "promedio": 1136.0,
      "min": 1090.909090909091,
-     "max": 1272.7272727272727,
-     "fecha": "2026-11-03",
+     "max": 1181.8181818181818,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 2750.0,
-     "min": 2600.0,
-     "max": 2800.0,
-     "fecha": "2026-11-03",
+     "promedio": 2467.0,
+     "min": 2400.0,
+     "max": 2600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 3409.0,
+     "promedio": 3485.0,
      "min": 3409.090909090909,
-     "max": 3409.090909090909,
-     "fecha": "2026-11-03",
+     "max": 3636.3636363636365,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2976.0,
+     "promedio": 3036.0,
      "min": 2857.1428571428573,
      "max": 3095.2380952380954,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Zanahoria",
-     "promedio": 1125.0,
-     "min": 1000.0,
-     "max": 1200.0,
-     "fecha": "2026-11-03",
+     "promedio": 1450.0,
+     "min": 1400.0,
+     "max": 1500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -791,90 +1060,90 @@
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 9000.0,
-     "min": 9000.0,
-     "max": 9000.0,
-     "fecha": "2026-11-03",
+     "promedio": 7417.0,
+     "min": 7000.0,
+     "max": 8000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Ahuyama",
-     "promedio": 2175.0,
+     "promedio": 2000.0,
      "min": 2000.0,
-     "max": 2300.0,
-     "fecha": "2026-11-03",
+     "max": 2000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Arracacha*",
-     "promedio": 3467.0,
-     "min": 3400.0,
+     "promedio": 3267.0,
+     "min": 3000.0,
      "max": 3600.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Arveja verde en vaina",
-     "promedio": 7375.0,
-     "min": 7000.0,
-     "max": 8000.0,
-     "fecha": "2026-11-03",
+     "promedio": 9000.0,
+     "min": 9000.0,
+     "max": 9000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Banano*",
-     "promedio": 2575.0,
+     "promedio": 2792.0,
      "min": 2500.0,
-     "max": 2700.0,
-     "fecha": "2026-11-03",
+     "max": 3000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 1842.0,
+     "promedio": 1917.0,
      "min": 1800.0,
-     "max": 1900.0,
-     "fecha": "2026-11-03",
+     "max": 2000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 1159.0,
-     "min": 1093.75,
-     "max": 1250.0,
-     "fecha": "2026-11-03",
+     "promedio": 996.0,
+     "min": 937.5,
+     "max": 1093.75,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Chócolo mazorca",
-     "promedio": 2432.0,
+     "promedio": 2470.0,
      "min": 2363.6363636363635,
      "max": 2545.4545454545455,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Granadilla",
-     "promedio": 9762.0,
-     "min": 9285.714285714286,
-     "max": 10000.0,
-     "fecha": "2026-11-03",
+     "promedio": 8810.0,
+     "min": 8571.42857142857,
+     "max": 9285.714285714286,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Guayaba*",
-     "promedio": 3731.0,
-     "min": 3636.3636363636365,
-     "max": 3863.6363636363635,
-     "fecha": "2026-11-03",
+     "promedio": 3939.0,
+     "min": 3863.6363636363635,
+     "max": 4090.909090909091,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 6708.0,
-     "min": 6500.0,
-     "max": 7000.0,
-     "fecha": "2026-11-03",
+     "promedio": 4708.0,
+     "min": 4500.0,
+     "max": 5000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -882,63 +1151,71 @@
      "promedio": 1667.0,
      "min": 1666.6666666666667,
      "max": 1666.6666666666667,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 5000.0,
-     "min": 5000.0,
-     "max": 5000.0,
-     "fecha": "2026-11-03",
+     "promedio": 5792.0,
+     "min": 5500.0,
+     "max": 6000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Limón Tahití",
      "promedio": 3636.0,
-     "min": 3636.3636363636365,
-     "max": 3636.3636363636365,
-     "fecha": "2026-11-03",
+     "min": 3409.090909090909,
+     "max": 3863.6363636363635,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 6292.0,
-     "min": 6000.0,
+     "promedio": 6500.0,
+     "min": 6500.0,
      "max": 6500.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mandarina*",
-     "promedio": 3833.0,
+     "promedio": 3600.0,
      "min": 3600.0,
-     "max": 4000.0,
-     "fecha": "2026-11-03",
+     "max": 3600.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mango tommy",
+     "promedio": 6400.0,
+     "min": 6400.0,
+     "max": 6400.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Manzana royal gala",
-     "promedio": 8333.0,
-     "min": 8250.0,
+     "promedio": 8167.0,
+     "min": 8000.0,
      "max": 8500.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Maracuyá",
-     "promedio": 6250.0,
-     "min": 6000.0,
-     "max": 6500.0,
-     "fecha": "2026-11-03",
+     "promedio": 5583.0,
+     "min": 5000.0,
+     "max": 6000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 5833.0,
-     "min": 5666.666666666667,
-     "max": 6000.0,
-     "fecha": "2026-11-03",
+     "promedio": 6146.0,
+     "min": 6000.0,
+     "max": 6250.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -946,87 +1223,316 @@
      "promedio": 1569.0,
      "min": 1500.0,
      "max": 1666.6666666666667,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 3117.0,
-     "min": 3000.0,
-     "max": 3200.0,
-     "fecha": "2026-11-03",
+     "promedio": 2500.0,
+     "min": 2400.0,
+     "max": 2600.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papaya maradol",
-     "promedio": 2250.0,
-     "min": 2000.0,
+     "promedio": 2500.0,
+     "min": 2500.0,
      "max": 2500.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 2533.0,
+     "promedio": 2400.0,
      "min": 2400.0,
-     "max": 2600.0,
-     "fecha": "2026-11-03",
+     "max": 2400.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 4375.0,
+     "promedio": 4653.0,
      "min": 4166.666666666667,
-     "max": 4583.333333333333,
-     "fecha": "2026-11-03",
+     "max": 5000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 3500.0,
-     "min": 3500.0,
+     "promedio": 3375.0,
+     "min": 3200.0,
      "max": 3500.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Remolacha",
-     "promedio": 1533.0,
-     "min": 1400.0,
-     "max": 1600.0,
-     "fecha": "2026-11-03",
+     "promedio": 1067.0,
+     "min": 1000.0,
+     "max": 1200.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 5067.0,
-     "min": 4800.0,
-     "max": 5200.0,
-     "fecha": "2026-11-03",
+     "promedio": 4000.0,
+     "min": 4000.0,
+     "max": 4000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 3542.0,
-     "min": 3333.3333333333335,
-     "max": 3750.0,
-     "fecha": "2026-11-03",
+     "promedio": 3090.0,
+     "min": 2916.6666666666665,
+     "max": 3333.3333333333335,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2600.0,
-     "min": 2600.0,
+     "promedio": 2533.0,
+     "min": 2400.0,
      "max": 2600.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Zanahoria",
-     "promedio": 1283.0,
-     "min": 1200.0,
-     "max": 1400.0,
-     "fecha": "2026-11-03",
+     "promedio": 917.0,
+     "min": 800.0,
+     "max": 1000.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    }
+   ]
+  },
+  "Ibagué, Plaza La 21": {
+   "ciudad": "Ibagué",
+   "precios": [
+    {
+     "producto": "Aguacate*",
+     "promedio": 8500.0,
+     "min": 8500.0,
+     "max": 8500.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Ahuyama",
+     "promedio": 3000.0,
+     "min": 3000.0,
+     "max": 3000.0,
+     "fecha": "2026-10-30",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Arracacha*",
+     "promedio": 3920.0,
+     "min": 3680.0,
+     "max": 4000.0,
+     "fecha": "2026-11-06",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Arveja verde en vaina",
+     "promedio": 5750.0,
+     "min": 5600.0,
+     "max": 6400.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Banano*",
+     "promedio": 1800.0,
+     "min": 1800.0,
+     "max": 1800.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Cebolla cabezona blanca",
+     "promedio": 2000.0,
+     "min": 1800.0,
+     "max": 2400.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Chócolo mazorca",
+     "promedio": 2450.0,
+     "min": 2400.0,
+     "max": 2600.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Fríjol verde*",
+     "promedio": 6400.0,
+     "min": 6400.0,
+     "max": 6400.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Granadilla",
+     "promedio": 3833.0,
+     "min": 3333.3333333333335,
+     "max": 4666.666666666667,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Guayaba*",
+     "promedio": 2250.0,
+     "min": 2250.0,
+     "max": 2250.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Habichuela",
+     "promedio": 5200.0,
+     "min": 4800.0,
+     "max": 5600.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Lechuga batavia",
+     "promedio": 3240.0,
+     "min": 3200.0,
+     "max": 3360.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Limón Común",
+     "promedio": 2500.0,
+     "min": 2285.714285714286,
+     "max": 2571.4285714285716,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Limón Tahití",
+     "promedio": 2500.0,
+     "min": 2285.714285714286,
+     "max": 2571.4285714285716,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Lulo",
+     "promedio": 4655.0,
+     "min": 4000.0,
+     "max": 5040.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mango tommy",
+     "promedio": 4800.0,
+     "min": 4800.0,
+     "max": 4800.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Manzana royal gala",
+     "promedio": 8092.0,
+     "min": 7368.421052631579,
+     "max": 8421.052631578947,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Maracuyá",
+     "promedio": 5100.0,
+     "min": 4800.0,
+     "max": 5200.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mora de Castilla",
+     "promedio": 8000.0,
+     "min": 8000.0,
+     "max": 8000.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Papa criolla",
+     "promedio": 4900.0,
+     "min": 4400.0,
+     "max": 5600.0,
+     "fecha": "2026-11-06",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Pepino cohombro",
+     "promedio": 2700.0,
+     "min": 2400.0,
+     "max": 2800.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Pimentón",
+     "promedio": 6700.0,
+     "min": 6400.0,
+     "max": 7000.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Piña *",
+     "promedio": 3950.0,
+     "min": 3800.0,
+     "max": 4000.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Plátano hartón verde",
+     "promedio": 2050.0,
+     "min": 2000.0,
+     "max": 2100.0,
+     "fecha": "2026-11-06",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Remolacha",
+     "promedio": 1700.0,
+     "min": 1600.0,
+     "max": 2000.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Tomate de árbol",
+     "promedio": 3075.0,
+     "min": 2600.0,
+     "max": 3200.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Tomate*",
+     "promedio": 2700.0,
+     "min": 2400.0,
+     "max": 2800.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Zanahoria",
+     "promedio": 1680.0,
+     "min": 1440.0,
+     "max": 1920.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -1036,18 +1542,18 @@
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 9750.0,
-     "min": 9500.0,
-     "max": 10000.0,
-     "fecha": "2026-11-03",
+     "promedio": 11250.0,
+     "min": 11000.0,
+     "max": 11500.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Ahuyama",
-     "promedio": 1875.0,
-     "min": 1700.0,
-     "max": 2000.0,
-     "fecha": "2026-11-03",
+     "promedio": 2125.0,
+     "min": 2000.0,
+     "max": 2300.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -1055,23 +1561,23 @@
      "promedio": 4625.0,
      "min": 4500.0,
      "max": 4750.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Arveja verde en vaina",
-     "promedio": 4375.0,
-     "min": 4200.0,
-     "max": 4500.0,
-     "fecha": "2026-11-03",
+     "promedio": 4625.0,
+     "min": 4500.0,
+     "max": 4800.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Banano*",
-     "promedio": 1525.0,
-     "min": 1400.0,
-     "max": 1600.0,
-     "fecha": "2026-11-03",
+     "promedio": 1650.0,
+     "min": 1600.0,
+     "max": 1700.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -1079,15 +1585,15 @@
      "promedio": 2031.0,
      "min": 1979.1666666666667,
      "max": 2083.3333333333335,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 2625.0,
-     "min": 2500.0,
-     "max": 2800.0,
-     "fecha": "2026-11-03",
+     "promedio": 3375.0,
+     "min": 3200.0,
+     "max": 3500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -1095,31 +1601,31 @@
      "promedio": 2000.0,
      "min": 2000.0,
      "max": 2000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Coco",
-     "promedio": 6827.0,
-     "min": 6730.7692307692305,
-     "max": 6923.076923076923,
-     "fecha": "2026-11-03",
+     "promedio": 7019.0,
+     "min": 6923.076923076923,
+     "max": 7115.384615384615,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Fríjol verde*",
-     "promedio": 5525.0,
-     "min": 5500.0,
-     "max": 5600.0,
-     "fecha": "2026-11-03",
+     "promedio": 5350.0,
+     "min": 5200.0,
+     "max": 5500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Granadilla",
-     "promedio": 4423.0,
+     "promedio": 4327.0,
      "min": 4230.7692307692305,
      "max": 4615.384615384615,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -1127,111 +1633,111 @@
      "promedio": 2900.0,
      "min": 2800.0,
      "max": 3000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 1875.0,
-     "min": 1700.0,
-     "max": 2000.0,
-     "fecha": "2026-11-03",
+     "promedio": 1475.0,
+     "min": 1300.0,
+     "max": 1600.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 1579.0,
-     "min": 1428.5714285714287,
-     "max": 1750.0,
-     "fecha": "2026-11-03",
+     "promedio": 1674.0,
+     "min": 1562.5,
+     "max": 1857.142857142857,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 2976.0,
+     "promedio": 2857.0,
      "min": 2857.1428571428573,
-     "max": 3000.0,
-     "fecha": "2026-11-03",
+     "max": 2857.1428571428573,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Limón Tahití",
-     "promedio": 2300.0,
-     "min": 2200.0,
-     "max": 2400.0,
-     "fecha": "2026-11-03",
+     "promedio": 2625.0,
+     "min": 2500.0,
+     "max": 2700.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 4725.0,
-     "min": 4600.0,
-     "max": 4800.0,
-     "fecha": "2026-11-03",
+     "promedio": 5100.0,
+     "min": 5000.0,
+     "max": 5200.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mandarina*",
-     "promedio": 3100.0,
-     "min": 3000.0,
-     "max": 3200.0,
-     "fecha": "2026-11-03",
+     "promedio": 3438.0,
+     "min": 3300.0,
+     "max": 3500.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mango tommy",
-     "promedio": 5750.0,
-     "min": 5500.0,
+     "promedio": 6000.0,
+     "min": 6000.0,
      "max": 6000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Manzana royal gala",
-     "promedio": 7632.0,
-     "min": 7368.421052631579,
-     "max": 7894.736842105263,
-     "fecha": "2026-11-03",
+     "promedio": 8158.0,
+     "min": 7894.736842105263,
+     "max": 8421.052631578947,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Maracuyá",
-     "promedio": 3400.0,
-     "min": 3300.0,
-     "max": 3500.0,
-     "fecha": "2026-11-03",
+     "promedio": 3688.0,
+     "min": 3600.0,
+     "max": 3800.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 9000.0,
-     "min": 9000.0,
-     "max": 9000.0,
-     "fecha": "2026-11-03",
+     "promedio": 8100.0,
+     "min": 8000.0,
+     "max": 8200.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Naranja*",
-     "promedio": 2875.0,
+     "promedio": 2825.0,
      "min": 2700.0,
      "max": 3000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 3888.0,
-     "min": 3700.0,
-     "max": 4000.0,
-     "fecha": "2026-11-03",
+     "promedio": 4238.0,
+     "min": 4000.0,
+     "max": 4500.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 3738.0,
-     "min": 3600.0,
-     "max": 3800.0,
-     "fecha": "2026-11-03",
+     "promedio": 3575.0,
+     "min": 3500.0,
+     "max": 3700.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
@@ -1239,71 +1745,71 @@
      "promedio": 3725.0,
      "min": 3600.0,
      "max": 3800.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 1925.0,
-     "min": 1800.0,
-     "max": 2000.0,
-     "fecha": "2026-11-03",
+     "promedio": 2375.0,
+     "min": 2200.0,
+     "max": 2500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 3938.0,
-     "min": 3700.0,
-     "max": 4000.0,
-     "fecha": "2026-11-03",
+     "promedio": 4125.0,
+     "min": 4000.0,
+     "max": 4300.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Piña *",
-     "promedio": 3875.0,
-     "min": 3800.0,
-     "max": 4000.0,
-     "fecha": "2026-11-03",
+     "promedio": 3625.0,
+     "min": 3500.0,
+     "max": 3700.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Plátano guineo",
-     "promedio": 1125.0,
-     "min": 1000.0,
-     "max": 1200.0,
-     "fecha": "2026-11-03",
+     "promedio": 1350.0,
+     "min": 1200.0,
+     "max": 1500.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 2475.0,
-     "min": 2400.0,
-     "max": 2600.0,
-     "fecha": "2026-11-03",
+     "promedio": 2700.0,
+     "min": 2600.0,
+     "max": 2800.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Remolacha",
-     "promedio": 1275.0,
-     "min": 1200.0,
-     "max": 1400.0,
-     "fecha": "2026-11-03",
+     "promedio": 1175.0,
+     "min": 1000.0,
+     "max": 1300.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 2375.0,
-     "min": 2300.0,
+     "promedio": 2300.0,
+     "min": 2200.0,
      "max": 2500.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 3625.0,
+     "promedio": 3750.0,
      "min": 3500.0,
-     "max": 3800.0,
-     "fecha": "2026-11-03",
+     "max": 4000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -1311,15 +1817,15 @@
      "promedio": 2700.0,
      "min": 2600.0,
      "max": 2800.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Zanahoria",
-     "promedio": 500.0,
-     "min": 444.44444444444446,
-     "max": 555.5555555555555,
-     "fecha": "2026-11-03",
+     "promedio": 378.0,
+     "min": 333.3333333333333,
+     "max": 444.44444444444446,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -1332,63 +1838,63 @@
      "promedio": 8667.0,
      "min": 8000.0,
      "max": 9000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Arracacha*",
-     "promedio": 4160.0,
-     "min": 3840.0,
+     "promedio": 4320.0,
+     "min": 4000.0,
      "max": 4480.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Arveja verde en vaina",
-     "promedio": 5467.0,
-     "min": 5200.0,
-     "max": 5600.0,
-     "fecha": "2026-11-03",
+     "promedio": 6000.0,
+     "min": 6000.0,
+     "max": 6000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Banano*",
-     "promedio": 1867.0,
-     "min": 1800.0,
+     "promedio": 2000.0,
+     "min": 2000.0,
      "max": 2000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 1944.0,
-     "min": 1833.3333333333333,
-     "max": 2000.0,
-     "fecha": "2026-11-03",
+     "promedio": 1667.0,
+     "min": 1666.6666666666667,
+     "max": 1666.6666666666667,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Chócolo mazorca",
-     "promedio": 2040.0,
-     "min": 2000.0,
-     "max": 2080.0,
-     "fecha": "2026-11-03",
+     "promedio": 2027.0,
+     "min": 1920.0,
+     "max": 2240.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Fríjol verde*",
-     "promedio": 6933.0,
-     "min": 6800.0,
+     "promedio": 6800.0,
+     "min": 6400.0,
      "max": 7200.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Granadilla",
-     "promedio": 5333.0,
+     "promedio": 5667.0,
      "min": 5333.333333333333,
-     "max": 5333.333333333333,
-     "fecha": "2026-11-03",
+     "max": 6000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -1396,15 +1902,15 @@
      "promedio": 5667.0,
      "min": 5500.0,
      "max": 6000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 5467.0,
-     "min": 5200.0,
-     "max": 5600.0,
-     "fecha": "2026-11-03",
+     "promedio": 4800.0,
+     "min": 4800.0,
+     "max": 4800.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -1412,55 +1918,55 @@
      "promedio": 3200.0,
      "min": 3200.0,
      "max": 3200.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 2933.0,
-     "min": 2800.0,
-     "max": 3200.0,
-     "fecha": "2026-11-03",
+     "promedio": 2213.0,
+     "min": 2000.0,
+     "max": 2400.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Limón Tahití",
-     "promedio": 2800.0,
-     "min": 2800.0,
-     "max": 2800.0,
-     "fecha": "2026-11-03",
+     "promedio": 3200.0,
+     "min": 3200.0,
+     "max": 3200.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 3733.0,
-     "min": 3600.0,
-     "max": 4000.0,
-     "fecha": "2026-11-03",
+     "promedio": 3467.0,
+     "min": 3200.0,
+     "max": 3600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mango tommy",
-     "promedio": 5000.0,
+     "promedio": 5200.0,
      "min": 4800.0,
-     "max": 5200.0,
-     "fecha": "2026-11-03",
+     "max": 5600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Manzana royal gala",
-     "promedio": 8711.0,
-     "min": 8210.526315789473,
+     "promedio": 8605.0,
+     "min": 8000.0,
      "max": 9210.526315789473,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 6200.0,
-     "min": 6000.0,
-     "max": 6400.0,
-     "fecha": "2026-11-03",
+     "promedio": 5600.0,
+     "min": 5600.0,
+     "max": 5600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -1468,15 +1974,15 @@
      "promedio": 2667.0,
      "min": 2400.0,
      "max": 2800.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 4524.0,
-     "min": 4285.714285714285,
-     "max": 4642.857142857143,
-     "fecha": "2026-11-03",
+     "promedio": 3690.0,
+     "min": 3571.4285714285716,
+     "max": 3928.5714285714284,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -1484,23 +1990,23 @@
      "promedio": 1500.0,
      "min": 1500.0,
      "max": 1500.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 1933.0,
-     "min": 1800.0,
+     "promedio": 2000.0,
+     "min": 2000.0,
      "max": 2000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Remolacha",
-     "promedio": 1387.0,
+     "promedio": 1440.0,
      "min": 1280.0,
      "max": 1600.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -1508,292 +2014,582 @@
      "promedio": 2867.0,
      "min": 2800.0,
      "max": 3000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 3478.0,
-     "min": 3260.8695652173915,
-     "max": 3695.6521739130435,
-     "fecha": "2026-11-03",
+     "promedio": 2899.0,
+     "min": 2826.086956521739,
+     "max": 3043.478260869565,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Zanahoria",
-     "promedio": 1920.0,
+     "promedio": 1960.0,
      "min": 1760.0,
-     "max": 2080.0,
-     "fecha": "2026-11-03",
+     "max": 2160.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
   },
-  "Armenia, Mercar": {
-   "ciudad": "Armenia",
+  "Pereira, La 41-Impala": {
+   "ciudad": "Pereira",
    "precios": [
     {
+     "producto": "Aguacate*",
+     "promedio": 9500.0,
+     "min": 9000.0,
+     "max": 10000.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
      "producto": "Ahuyama",
-     "promedio": 1033.0,
-     "min": 1000.0,
-     "max": 1100.0,
-     "fecha": "2026-11-03",
+     "promedio": 1933.0,
+     "min": 1800.0,
+     "max": 2000.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Arracacha*",
-     "promedio": 2833.0,
-     "min": 2666.6666666666665,
-     "max": 3000.0,
-     "fecha": "2026-11-03",
+     "promedio": 3667.0,
+     "min": 3666.6666666666665,
+     "max": 3666.6666666666665,
+     "fecha": "2026-11-05",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Arveja verde en vaina",
-     "promedio": 5600.0,
-     "min": 5600.0,
-     "max": 5600.0,
-     "fecha": "2026-11-03",
+     "promedio": 6320.0,
+     "min": 6240.0,
+     "max": 6400.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Banano*",
-     "promedio": 1200.0,
-     "min": 1200.0,
-     "max": 1200.0,
-     "fecha": "2026-11-03",
+     "promedio": 1833.0,
+     "min": 1700.0,
+     "max": 2000.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 1867.0,
-     "min": 1800.0,
-     "max": 1900.0,
-     "fecha": "2026-11-03",
+     "promedio": 2100.0,
+     "min": 2000.0,
+     "max": 2200.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 2810.0,
-     "min": 2714.285714285714,
-     "max": 2857.1428571428573,
-     "fecha": "2026-11-03",
+     "promedio": 2089.0,
+     "min": 2000.0,
+     "max": 2266.6666666666665,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Chócolo mazorca",
-     "promedio": 1071.0,
-     "min": 1071.4285714285713,
-     "max": 1071.4285714285713,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Coco",
-     "promedio": 3633.0,
-     "min": 3600.0,
-     "max": 3666.6666666666665,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
     },
     {
      "producto": "Fríjol verde*",
-     "promedio": 6347.0,
-     "min": 6240.0,
-     "max": 6400.0,
-     "fecha": "2026-11-03",
+     "promedio": 7000.0,
+     "min": 7000.0,
+     "max": 7000.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
-     "producto": "Granadilla",
-     "promedio": 8111.0,
-     "min": 8000.0,
-     "max": 8333.333333333334,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
      "producto": "Guayaba*",
-     "promedio": 2533.0,
-     "min": 2500.0,
-     "max": 2600.0,
-     "fecha": "2026-11-03",
+     "promedio": 2967.0,
+     "min": 2800.0,
+     "max": 3100.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 3520.0,
-     "min": 3360.0,
+     "promedio": 3440.0,
+     "min": 3200.0,
      "max": 3600.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 1400.0,
-     "min": 1333.3333333333333,
-     "max": 1466.6666666666667,
-     "fecha": "2026-10-29",
+     "promedio": 2500.0,
+     "min": 2333.3333333333335,
+     "max": 2666.6666666666665,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 5000.0,
-     "min": 5000.0,
-     "max": 5000.0,
-     "fecha": "2026-11-03",
+     "promedio": 3750.0,
+     "min": 3500.0,
+     "max": 4000.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Limón Tahití",
-     "promedio": 2033.0,
-     "min": 2000.0,
-     "max": 2100.0,
-     "fecha": "2026-11-03",
+     "promedio": 2733.0,
+     "min": 2500.0,
+     "max": 3000.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 6200.0,
-     "min": 6000.0,
-     "max": 6400.0,
-     "fecha": "2026-11-03",
+     "promedio": 5900.0,
+     "min": 5500.0,
+     "max": 6200.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mandarina*",
-     "promedio": 1567.0,
-     "min": 1500.0,
-     "max": 1600.0,
-     "fecha": "2026-11-03",
+     "promedio": 2267.0,
+     "min": 2100.0,
+     "max": 2500.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mango tommy",
-     "promedio": 5000.0,
-     "min": 5000.0,
-     "max": 5000.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Manzana royal gala",
-     "promedio": 9211.0,
-     "min": 8947.368421052632,
-     "max": 9473.684210526315,
-     "fecha": "2026-11-03",
+     "promedio": 5467.0,
+     "min": 5200.0,
+     "max": 5600.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Maracuyá",
-     "promedio": 4033.0,
-     "min": 4000.0,
-     "max": 4100.0,
-     "fecha": "2026-11-03",
+     "promedio": 4567.0,
+     "min": 4400.0,
+     "max": 4800.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 7333.0,
-     "min": 7000.0,
-     "max": 7500.0,
-     "fecha": "2026-11-03",
+     "promedio": 9000.0,
+     "min": 9000.0,
+     "max": 9000.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 3722.0,
-     "min": 3666.6666666666665,
-     "max": 3833.3333333333335,
-     "fecha": "2026-11-03",
+     "promedio": 3933.0,
+     "min": 3800.0,
+     "max": 4000.0,
+     "fecha": "2026-11-05",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 3050.0,
-     "min": 3000.0,
-     "max": 3100.0,
-     "fecha": "2026-11-03",
+     "promedio": 2533.0,
+     "min": 2400.0,
+     "max": 2600.0,
+     "fecha": "2026-11-05",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papaya maradol",
-     "promedio": 1900.0,
-     "min": 1800.0,
-     "max": 2000.0,
-     "fecha": "2026-11-03",
+     "promedio": 2333.0,
+     "min": 2200.0,
+     "max": 2500.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 3467.0,
-     "min": 3400.0,
-     "max": 3500.0,
-     "fecha": "2026-11-03",
+     "promedio": 2733.0,
+     "min": 2500.0,
+     "max": 3000.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 5200.0,
-     "min": 5000.0,
-     "max": 5400.0,
-     "fecha": "2026-11-03",
+     "promedio": 6167.0,
+     "min": 6000.0,
+     "max": 6500.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Piña *",
-     "promedio": 3500.0,
-     "min": 3400.0,
-     "max": 3600.0,
-     "fecha": "2026-11-03",
+     "promedio": 5233.0,
+     "min": 5000.0,
+     "max": 5500.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 2367.0,
-     "min": 2300.0,
+     "promedio": 2300.0,
+     "min": 2200.0,
      "max": 2400.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-05",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
-     "producto": "Remolacha",
-     "promedio": 1253.0,
-     "min": 1200.0,
-     "max": 1280.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
      "producto": "Tomate de árbol",
-     "promedio": 3160.0,
-     "min": 3080.0,
-     "max": 3200.0,
-     "fecha": "2026-11-03",
+     "promedio": 4100.0,
+     "min": 3800.0,
+     "max": 4500.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 3455.0,
-     "min": 3409.090909090909,
-     "max": 3545.4545454545455,
-     "fecha": "2026-11-03",
+     "promedio": 3933.0,
+     "min": 3800.0,
+     "max": 4000.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2000.0,
-     "min": 2000.0,
-     "max": 2000.0,
-     "fecha": "2026-11-03",
+     "promedio": 2200.0,
+     "min": 2200.0,
+     "max": 2200.0,
+     "fecha": "2026-11-05",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    }
+   ]
+  },
+  "Santa Marta (Magdalena)": {
+   "ciudad": "Santa Marta (Magdalena)",
+   "precios": [
+    {
+     "producto": "Banano*",
+     "promedio": 1382.0,
+     "min": 1352.9411764705883,
+     "max": 1411.764705882353,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Cebolla cabezona blanca",
+     "promedio": 2740.0,
+     "min": 2680.0,
+     "max": 2800.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Chócolo mazorca",
+     "promedio": 3100.0,
+     "min": 3000.0,
+     "max": 3200.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Lechuga batavia",
+     "promedio": 3250.0,
+     "min": 3166.6666666666665,
+     "max": 3333.3333333333335,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Lulo",
+     "promedio": 6450.0,
+     "min": 6400.0,
+     "max": 6500.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mora de Castilla",
+     "promedio": 7280.0,
+     "min": 7200.0,
+     "max": 7360.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Pepino cohombro",
+     "promedio": 2520.0,
+     "min": 2440.0,
+     "max": 2600.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Pimentón",
+     "promedio": 5083.0,
+     "min": 5000.0,
+     "max": 5166.666666666667,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Plátano hartón verde",
+     "promedio": 2675.0,
+     "min": 2650.0,
+     "max": 2700.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
+     "producto": "Remolacha",
+     "promedio": 1517.0,
+     "min": 1500.0,
+     "max": 1533.3333333333333,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Tomate de árbol",
+     "promedio": 3640.0,
+     "min": 3600.0,
+     "max": 3680.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
      "producto": "Zanahoria",
-     "promedio": 1206.0,
-     "min": 1166.6666666666667,
-     "max": 1250.0,
-     "fecha": "2026-11-03",
+     "promedio": 1600.0,
+     "min": 1533.3333333333333,
+     "max": 1666.6666666666667,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    }
+   ]
+  },
+  "Tunja, Complejo de Servicios del Sur": {
+   "ciudad": "Tunja",
+   "precios": [
+    {
+     "producto": "Aguacate*",
+     "promedio": 8875.0,
+     "min": 8500.0,
+     "max": 9000.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Ahuyama",
+     "promedio": 1979.0,
+     "min": 1875.0,
+     "max": 2031.25,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Arracacha*",
+     "promedio": 3417.0,
+     "min": 3333.3333333333335,
+     "max": 3666.6666666666665,
+     "fecha": "2026-11-06",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Arveja verde en vaina",
+     "promedio": 5450.0,
+     "min": 5400.0,
+     "max": 5600.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Banano*",
+     "promedio": 2050.0,
+     "min": 2000.0,
+     "max": 2100.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Cebolla cabezona blanca",
+     "promedio": 1650.0,
+     "min": 1600.0,
+     "max": 1700.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Cebolla junca",
+     "promedio": 1417.0,
+     "min": 1333.3333333333333,
+     "max": 1500.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Chócolo mazorca",
+     "promedio": 1425.0,
+     "min": 1400.0,
+     "max": 1500.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Fríjol verde*",
+     "promedio": 4850.0,
+     "min": 4800.0,
+     "max": 5000.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Granadilla",
+     "promedio": 5889.0,
+     "min": 5666.666666666667,
+     "max": 6000.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Guayaba*",
+     "promedio": 2645.0,
+     "min": 2500.0,
+     "max": 2916.6666666666665,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Habichuela",
+     "promedio": 4100.0,
+     "min": 4000.0,
+     "max": 4400.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Lechuga batavia",
+     "promedio": 1600.0,
+     "min": 1466.6666666666667,
+     "max": 1666.6666666666667,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Limón Tahití",
+     "promedio": 3068.0,
+     "min": 2954.5454545454545,
+     "max": 3181.818181818182,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Lulo",
+     "promedio": 4600.0,
+     "min": 4400.0,
+     "max": 4800.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mandarina*",
+     "promedio": 2330.0,
+     "min": 2272.7272727272725,
+     "max": 2500.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mango tommy",
+     "promedio": 4524.0,
+     "min": 4285.714285714285,
+     "max": 4642.857142857143,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Manzana royal gala",
+     "promedio": 8596.0,
+     "min": 8421.052631578947,
+     "max": 8947.368421052632,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Maracuyá",
+     "promedio": 4875.0,
+     "min": 4500.0,
+     "max": 5000.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mora de Castilla",
+     "promedio": 5750.0,
+     "min": 5500.0,
+     "max": 6000.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Naranja*",
+     "promedio": 1625.0,
+     "min": 1600.0,
+     "max": 1700.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Papa criolla",
+     "promedio": 3100.0,
+     "min": 3000.0,
+     "max": 3200.0,
+     "fecha": "2026-11-06",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Pepino cohombro",
+     "promedio": 2200.0,
+     "min": 2000.0,
+     "max": 2400.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Pimentón",
+     "promedio": 4196.0,
+     "min": 3928.5714285714284,
+     "max": 4285.714285714285,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Plátano hartón verde",
+     "promedio": 2438.0,
+     "min": 2250.0,
+     "max": 2500.0,
+     "fecha": "2026-11-06",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Remolacha",
+     "promedio": 950.0,
+     "min": 900.0,
+     "max": 1000.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Tomate de árbol",
+     "promedio": 2550.0,
+     "min": 2400.0,
+     "max": 2800.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Zanahoria",
+     "promedio": 1175.0,
+     "min": 1100.0,
+     "max": 1200.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -1806,23 +2602,23 @@
      "promedio": 10967.0,
      "min": 10900.0,
      "max": 11000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Banano*",
-     "promedio": 1140.0,
-     "min": 1140.0,
-     "max": 1140.0,
-     "fecha": "2026-11-02",
+     "promedio": 1260.0,
+     "min": 1260.0,
+     "max": 1260.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 2333.0,
-     "min": 2320.0,
-     "max": 2360.0,
-     "fecha": "2026-11-02",
+     "promedio": 2413.0,
+     "min": 2400.0,
+     "max": 2440.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -1830,7 +2626,7 @@
      "promedio": 3467.0,
      "min": 3400.0,
      "max": 3500.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -1838,15 +2634,15 @@
      "promedio": 9933.0,
      "min": 9800.0,
      "max": 10000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Guayaba*",
-     "promedio": 4133.0,
-     "min": 4100.0,
-     "max": 4200.0,
-     "fecha": "2026-11-02",
+     "promedio": 4333.0,
+     "min": 4300.0,
+     "max": 4400.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -1854,7 +2650,7 @@
      "promedio": 4467.0,
      "min": 4400.0,
      "max": 4500.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -1862,39 +2658,39 @@
      "promedio": 3067.0,
      "min": 3000.0,
      "max": 3200.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Tahití",
-     "promedio": 2903.0,
-     "min": 2875.0,
-     "max": 2916.6666666666665,
-     "fecha": "2026-11-02",
+     "promedio": 3319.0,
+     "min": 3291.6666666666665,
+     "max": 3333.3333333333335,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 6933.0,
-     "min": 6800.0,
-     "max": 7000.0,
-     "fecha": "2026-11-02",
+     "promedio": 7033.0,
+     "min": 7000.0,
+     "max": 7100.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mango tommy",
-     "promedio": 5627.0,
-     "min": 5600.0,
-     "max": 5680.0,
-     "fecha": "2026-11-02",
+     "promedio": 5373.0,
+     "min": 5320.0,
+     "max": 5400.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 8520.0,
-     "min": 7520.0,
-     "max": 9600.0,
-     "fecha": "2026-11-02",
+     "promedio": 9707.0,
+     "min": 8240.0,
+     "max": 11200.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -1902,15 +2698,15 @@
      "promedio": 2400.0,
      "min": 2400.0,
      "max": 2400.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 2227.0,
-     "min": 2200.0,
-     "max": 2260.0,
-     "fecha": "2026-11-02",
+     "promedio": 2287.0,
+     "min": 2260.0,
+     "max": 2300.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
@@ -1918,63 +2714,63 @@
      "promedio": 2373.0,
      "min": 2320.0,
      "max": 2400.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 3306.0,
-     "min": 3250.0,
-     "max": 3333.3333333333335,
-     "fecha": "2026-11-02",
+     "promedio": 3611.0,
+     "min": 3583.3333333333335,
+     "max": 3666.6666666666665,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Piña *",
-     "promedio": 4147.0,
-     "min": 4120.0,
+     "promedio": 4187.0,
+     "min": 4160.0,
      "max": 4200.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 3000.0,
-     "min": 3000.0,
-     "max": 3000.0,
-     "fecha": "2026-11-02",
+     "promedio": 3600.0,
+     "min": 3600.0,
+     "max": 3600.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Remolacha",
-     "promedio": 1461.0,
-     "min": 1450.0,
+     "promedio": 1456.0,
+     "min": 1433.3333333333333,
      "max": 1466.6666666666667,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 3033.0,
-     "min": 3000.0,
-     "max": 3100.0,
-     "fecha": "2026-11-02",
+     "promedio": 2567.0,
+     "min": 2500.0,
+     "max": 2600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 3547.0,
-     "min": 3480.0,
-     "max": 3600.0,
-     "fecha": "2026-11-02",
+     "promedio": 3773.0,
+     "min": 3760.0,
+     "max": 3800.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2783.0,
-     "min": 2750.0,
-     "max": 2800.0,
-     "fecha": "2026-11-02",
+     "promedio": 2833.0,
+     "min": 2800.0,
+     "max": 2850.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     }
    ]
@@ -1987,7 +2783,7 @@
      "promedio": 1419.0,
      "min": 1400.0,
      "max": 1428.5714285714287,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -1995,15 +2791,15 @@
      "promedio": 9033.0,
      "min": 9000.0,
      "max": 9100.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 2380.0,
-     "min": 2360.0,
-     "max": 2400.0,
-     "fecha": "2026-11-02",
+     "promedio": 2493.0,
+     "min": 2480.0,
+     "max": 2500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -2011,71 +2807,71 @@
      "promedio": 9033.0,
      "min": 9000.0,
      "max": 9100.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Guayaba*",
-     "promedio": 4967.0,
-     "min": 4900.0,
+     "promedio": 4933.0,
+     "min": 4800.0,
      "max": 5000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 5017.0,
-     "min": 5000.0,
-     "max": 5050.0,
-     "fecha": "2026-11-02",
+     "promedio": 4350.0,
+     "min": 4300.0,
+     "max": 4400.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 2500.0,
-     "min": 2400.0,
-     "max": 2600.0,
-     "fecha": "2026-11-02",
+     "promedio": 2933.0,
+     "min": 2900.0,
+     "max": 3000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 7000.0,
+     "promedio": 7033.0,
      "min": 7000.0,
-     "max": 7000.0,
-     "fecha": "2026-11-02",
+     "max": 7100.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 8680.0,
-     "min": 7600.0,
+     "promedio": 9080.0,
+     "min": 8240.0,
      "max": 10000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 2213.0,
-     "min": 2200.0,
-     "max": 2240.0,
-     "fecha": "2026-11-02",
+     "promedio": 2260.0,
+     "min": 2240.0,
+     "max": 2280.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 1933.0,
-     "min": 1920.0,
-     "max": 1960.0,
-     "fecha": "2026-11-02",
+     "promedio": 2413.0,
+     "min": 2400.0,
+     "max": 2440.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 5056.0,
-     "min": 5000.0,
-     "max": 5166.666666666667,
-     "fecha": "2026-11-02",
+     "promedio": 5250.0,
+     "min": 5166.666666666667,
+     "max": 5333.333333333333,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -2083,293 +2879,40 @@
      "promedio": 3693.0,
      "min": 3680.0,
      "max": 3720.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Remolacha",
-     "promedio": 1094.0,
-     "min": 1083.3333333333333,
-     "max": 1100.0,
-     "fecha": "2026-11-02",
+     "promedio": 1044.0,
+     "min": 1033.3333333333333,
+     "max": 1050.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 2933.0,
-     "min": 2900.0,
-     "max": 3000.0,
-     "fecha": "2026-11-02",
+     "promedio": 2633.0,
+     "min": 2600.0,
+     "max": 2700.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 4121.0,
-     "min": 4090.909090909091,
-     "max": 4181.818181818182,
-     "fecha": "2026-11-02",
+     "promedio": 4394.0,
+     "min": 4363.636363636364,
+     "max": 4409.090909090909,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2525.0,
+     "promedio": 2508.0,
      "min": 2500.0,
-     "max": 2550.0,
-     "fecha": "2026-11-02",
+     "max": 2525.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    }
-   ]
-  },
-  "Cali, Cavasa": {
-   "ciudad": "Cali",
-   "precios": [
-    {
-     "producto": "Aguacate*",
-     "promedio": 10000.0,
-     "min": 10000.0,
-     "max": 10000.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Ahuyama",
-     "promedio": 3083.0,
-     "min": 3000.0,
-     "max": 3200.0,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Arveja verde en vaina",
-     "promedio": 4300.0,
-     "min": 4200.0,
-     "max": 4400.0,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Banano*",
-     "promedio": 1867.0,
-     "min": 1866.6666666666667,
-     "max": 1866.6666666666667,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Cebolla cabezona blanca",
-     "promedio": 2040.0,
-     "min": 1979.1666666666667,
-     "max": 2083.3333333333335,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Cebolla junca",
-     "promedio": 759.0,
-     "min": 666.6666666666666,
-     "max": 888.8888888888889,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Chócolo mazorca",
-     "promedio": 1714.0,
-     "min": 1714.2857142857142,
-     "max": 1714.2857142857142,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Coco",
-     "promedio": 4848.0,
-     "min": 4848.484848484848,
-     "max": 4848.484848484848,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Fríjol verde*",
-     "promedio": 6500.0,
-     "min": 6400.0,
-     "max": 6600.0,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Granadilla",
-     "promedio": 5778.0,
-     "min": 5666.666666666667,
-     "max": 6000.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Guayaba*",
-     "promedio": 3208.0,
-     "min": 3000.0,
-     "max": 3500.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Habichuela",
-     "promedio": 2683.0,
-     "min": 2600.0,
-     "max": 2800.0,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Lechuga batavia",
-     "promedio": 1122.0,
-     "min": 1076.923076923077,
-     "max": 1153.8461538461538,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Limón Común",
-     "promedio": 2236.0,
-     "min": 2166.6666666666665,
-     "max": 2333.3333333333335,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Limón Tahití",
-     "promedio": 2042.0,
-     "min": 2000.0,
-     "max": 2100.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Lulo",
-     "promedio": 4317.0,
-     "min": 4200.0,
-     "max": 4400.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mandarina*",
-     "promedio": 3500.0,
-     "min": 3500.0,
-     "max": 3500.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mango tommy",
-     "promedio": 6000.0,
-     "min": 6000.0,
-     "max": 6000.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Manzana royal gala",
-     "promedio": 7895.0,
-     "min": 7894.736842105263,
-     "max": 7894.736842105263,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Maracuyá",
-     "promedio": 5083.0,
-     "min": 5000.0,
-     "max": 5200.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mora de Castilla",
-     "promedio": 7550.0,
-     "min": 7200.0,
-     "max": 8000.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Papa criolla",
-     "promedio": 3200.0,
-     "min": 3200.0,
-     "max": 3200.0,
-     "fecha": "2026-11-02",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Papa negra*",
-     "promedio": 3000.0,
-     "min": 3000.0,
-     "max": 3000.0,
-     "fecha": "2026-11-02",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Papaya maradol",
-     "promedio": 2058.0,
-     "min": 2000.0,
-     "max": 2100.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Pepino cohombro",
-     "promedio": 1736.0,
-     "min": 1666.6666666666667,
-     "max": 1833.3333333333333,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Pimentón",
-     "promedio": 6125.0,
-     "min": 6000.0,
-     "max": 6300.0,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Piña *",
-     "promedio": 3542.0,
-     "min": 3500.0,
-     "max": 3600.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Plátano hartón verde",
-     "promedio": 2042.0,
-     "min": 2000.0,
-     "max": 2100.0,
-     "fecha": "2026-11-02",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Remolacha",
-     "promedio": 1208.0,
-     "min": 1166.6666666666667,
-     "max": 1250.0,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Tomate de árbol",
-     "promedio": 2800.0,
-     "min": 2800.0,
-     "max": 2800.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Tomate*",
-     "promedio": 3717.0,
-     "min": 3600.0,
-     "max": 3800.0,
-     "fecha": "2026-11-02",
-     "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
   },
@@ -2378,50 +2921,50 @@
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 12250.0,
+     "promedio": 13000.0,
      "min": 12000.0,
-     "max": 13000.0,
-     "fecha": "2026-11-02",
+     "max": 14000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Ahuyama",
-     "promedio": 1700.0,
-     "min": 1500.0,
-     "max": 1800.0,
-     "fecha": "2026-11-02",
+     "promedio": 1933.0,
+     "min": 1800.0,
+     "max": 2000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 2400.0,
+     "promedio": 2300.0,
      "min": 2200.0,
-     "max": 2600.0,
-     "fecha": "2026-11-02",
+     "max": 2400.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Chócolo mazorca",
-     "promedio": 1833.0,
-     "min": 1750.0,
-     "max": 1875.0,
-     "fecha": "2026-11-02",
+     "promedio": 1708.0,
+     "min": 1625.0,
+     "max": 1750.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Coco",
-     "promedio": 4025.0,
-     "min": 3780.0,
+     "promedio": 3885.0,
+     "min": 3500.0,
      "max": 4200.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Guayaba*",
-     "promedio": 4100.0,
-     "min": 4000.0,
-     "max": 4200.0,
-     "fecha": "2026-11-02",
+     "promedio": 4425.0,
+     "min": 4200.0,
+     "max": 4500.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -2429,31 +2972,31 @@
      "promedio": 4750.0,
      "min": 4500.0,
      "max": 5000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 3017.0,
-     "min": 3000.0,
-     "max": 3066.6666666666665,
-     "fecha": "2026-11-02",
+     "promedio": 3317.0,
+     "min": 3266.6666666666665,
+     "max": 3333.3333333333335,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Tahití",
-     "promedio": 3352.0,
+     "promedio": 3489.0,
      "min": 3181.818181818182,
      "max": 3636.3636363636365,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 7000.0,
+     "promedio": 7050.0,
      "min": 7000.0,
-     "max": 7000.0,
-     "fecha": "2026-11-02",
+     "max": 7200.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -2461,357 +3004,104 @@
      "promedio": 4886.0,
      "min": 4545.454545454545,
      "max": 5454.545454545455,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 7500.0,
-     "min": 7200.0,
-     "max": 7600.0,
-     "fecha": "2026-11-02",
+     "promedio": 8100.0,
+     "min": 8000.0,
+     "max": 8400.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Naranja*",
-     "promedio": 1573.0,
+     "promedio": 1560.0,
      "min": 1520.0,
      "max": 1600.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 4200.0,
-     "min": 4000.0,
+     "promedio": 4350.0,
+     "min": 4200.0,
      "max": 4600.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 2025.0,
+     "promedio": 2065.0,
      "min": 2000.0,
      "max": 2100.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 2467.0,
+     "promedio": 2400.0,
      "min": 2200.0,
      "max": 2600.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 7583.0,
-     "min": 7500.0,
-     "max": 7833.333333333333,
-     "fecha": "2026-11-02",
+     "promedio": 7188.0,
+     "min": 7083.333333333333,
+     "max": 7500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Piña *",
-     "promedio": 3400.0,
-     "min": 3400.0,
-     "max": 3400.0,
-     "fecha": "2026-11-02",
+     "promedio": 3600.0,
+     "min": 3600.0,
+     "max": 3600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 3000.0,
+     "promedio": 3075.0,
      "min": 3000.0,
-     "max": 3000.0,
-     "fecha": "2026-11-02",
+     "max": 3300.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Remolacha",
-     "promedio": 1563.0,
-     "min": 1500.0,
-     "max": 1666.6666666666667,
-     "fecha": "2026-11-02",
+     "promedio": 1438.0,
+     "min": 1333.3333333333333,
+     "max": 1500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 3533.0,
-     "min": 3300.0,
+     "promedio": 3400.0,
+     "min": 3200.0,
      "max": 3800.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2656.0,
-     "min": 2500.0,
+     "promedio": 2750.0,
+     "min": 2750.0,
      "max": 2750.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Zanahoria",
-     "promedio": 1528.0,
-     "min": 1500.0,
-     "max": 1583.3333333333333,
-     "fecha": "2026-11-02",
+     "promedio": 1722.0,
+     "min": 1666.6666666666667,
+     "max": 1833.3333333333333,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
-    }
-   ]
-  },
-  "Manizales, Centro Galerías": {
-   "ciudad": "Manizales",
-   "precios": [
-    {
-     "producto": "Aguacate*",
-     "promedio": 7500.0,
-     "min": 7450.0,
-     "max": 7550.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Ahuyama",
-     "promedio": 2500.0,
-     "min": 2400.0,
-     "max": 2600.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Arveja verde en vaina",
-     "promedio": 6800.0,
-     "min": 6600.0,
-     "max": 7000.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Banano*",
-     "promedio": 1500.0,
-     "min": 1500.0,
-     "max": 1500.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Cebolla cabezona blanca",
-     "promedio": 2100.0,
-     "min": 2000.0,
-     "max": 2200.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Cebolla junca",
-     "promedio": 2240.0,
-     "min": 2080.0,
-     "max": 2400.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Chócolo mazorca",
-     "promedio": 1700.0,
-     "min": 1600.0,
-     "max": 1800.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Coco",
-     "promedio": 7419.0,
-     "min": 7419.354838709677,
-     "max": 7419.354838709677,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Fríjol verde*",
-     "promedio": 8000.0,
-     "min": 8000.0,
-     "max": 8000.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Granadilla",
-     "promedio": 6667.0,
-     "min": 6533.333333333333,
-     "max": 6800.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Guayaba*",
-     "promedio": 3600.0,
-     "min": 3400.0,
-     "max": 3800.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Habichuela",
-     "promedio": 2600.0,
-     "min": 2400.0,
-     "max": 2800.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Lechuga batavia",
-     "promedio": 2900.0,
-     "min": 2800.0,
-     "max": 3000.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Limón Tahití",
-     "promedio": 1500.0,
-     "min": 1450.0,
-     "max": 1550.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Lulo",
-     "promedio": 6000.0,
-     "min": 5900.0,
-     "max": 6100.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mandarina*",
-     "promedio": 3000.0,
-     "min": 2800.0,
-     "max": 3200.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mango tommy",
-     "promedio": 6200.0,
-     "min": 6000.0,
-     "max": 6400.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Manzana royal gala",
-     "promedio": 7368.0,
-     "min": 7105.263157894737,
-     "max": 7631.578947368421,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Maracuyá",
-     "promedio": 5000.0,
-     "min": 4800.0,
-     "max": 5200.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mora de Castilla",
-     "promedio": 9000.0,
-     "min": 8900.0,
-     "max": 9100.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Naranja*",
-     "promedio": 1500.0,
-     "min": 1300.0,
-     "max": 1700.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Papa criolla",
-     "promedio": 2917.0,
-     "min": 2812.5,
-     "max": 3020.8333333333335,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Papa negra*",
-     "promedio": 2960.0,
-     "min": 2920.0,
-     "max": 3000.0,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Papaya maradol",
-     "promedio": 2500.0,
-     "min": 2450.0,
-     "max": 2550.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Pepino cohombro",
-     "promedio": 2500.0,
-     "min": 2400.0,
-     "max": 2600.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Pimentón",
-     "promedio": 5500.0,
-     "min": 5000.0,
-     "max": 6000.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Piña *",
-     "promedio": 4500.0,
-     "min": 4300.0,
-     "max": 4700.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Remolacha",
-     "promedio": 1636.0,
-     "min": 1636.3636363636363,
-     "max": 1636.3636363636363,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Tomate de árbol",
-     "promedio": 3000.0,
-     "min": 2800.0,
-     "max": 3200.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Tomate*",
-     "promedio": 2841.0,
-     "min": 2727.2727272727275,
-     "max": 2954.5454545454545,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Yuca*",
-     "promedio": 2600.0,
-     "min": 2400.0,
-     "max": 2800.0,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     }
    ]
   },
@@ -2820,10 +3110,10 @@
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 9125.0,
-     "min": 9000.0,
-     "max": 9500.0,
-     "fecha": "2026-11-02",
+     "promedio": 9667.0,
+     "min": 9500.0,
+     "max": 10000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -2831,7 +3121,7 @@
      "promedio": 1625.0,
      "min": 1600.0,
      "max": 1700.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -2839,31 +3129,31 @@
      "promedio": 2263.0,
      "min": 2250.0,
      "max": 2300.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 2250.0,
-     "min": 2200.0,
-     "max": 2400.0,
-     "fecha": "2026-11-02",
+     "promedio": 2150.0,
+     "min": 2000.0,
+     "max": 2200.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 1250.0,
-     "min": 1250.0,
-     "max": 1250.0,
-     "fecha": "2026-11-02",
+     "promedio": 885.0,
+     "min": 833.3333333333334,
+     "max": 1041.6666666666667,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Chócolo mazorca",
-     "promedio": 1250.0,
-     "min": 1200.0,
-     "max": 1300.0,
-     "fecha": "2026-11-02",
+     "promedio": 1325.0,
+     "min": 1300.0,
+     "max": 1400.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -2871,7 +3161,7 @@
      "promedio": 5067.0,
      "min": 5000.0,
      "max": 5200.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -2879,31 +3169,31 @@
      "promedio": 6875.0,
      "min": 6500.0,
      "max": 7000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 3000.0,
+     "promedio": 3250.0,
      "min": 3000.0,
-     "max": 3000.0,
-     "fecha": "2026-11-02",
+     "max": 3500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 1979.0,
-     "min": 1833.3333333333333,
-     "max": 2166.6666666666665,
-     "fecha": "2026-11-02",
+     "promedio": 2813.0,
+     "min": 2666.6666666666665,
+     "max": 2916.6666666666665,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 4143.0,
-     "min": 4000.0,
-     "max": 4285.714285714285,
-     "fecha": "2026-11-02",
+     "promedio": 3893.0,
+     "min": 3714.285714285714,
+     "max": 4000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -2911,7 +3201,7 @@
      "promedio": 5833.0,
      "min": 5500.0,
      "max": 6000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -2919,63 +3209,63 @@
      "promedio": 8421.0,
      "min": 8421.052631578947,
      "max": 8421.052631578947,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 9200.0,
-     "min": 9000.0,
-     "max": 9600.0,
-     "fecha": "2026-11-02",
+     "promedio": 9000.0,
+     "min": 8800.0,
+     "max": 9200.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Naranja*",
-     "promedio": 2750.0,
-     "min": 2625.0,
-     "max": 2875.0,
-     "fecha": "2026-11-02",
+     "promedio": 2350.0,
+     "min": 2250.0,
+     "max": 2400.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 5750.0,
+     "promedio": 5875.0,
      "min": 5500.0,
      "max": 6000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 3775.0,
+     "promedio": 3800.0,
      "min": 3700.0,
-     "max": 3800.0,
-     "fecha": "2026-11-02",
+     "max": 3900.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 1575.0,
-     "min": 1500.0,
-     "max": 1600.0,
-     "fecha": "2026-11-02",
+     "promedio": 2125.0,
+     "min": 2000.0,
+     "max": 2200.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 5875.0,
-     "min": 5500.0,
-     "max": 6000.0,
-     "fecha": "2026-11-02",
+     "promedio": 5250.0,
+     "min": 5000.0,
+     "max": 5500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 2250.0,
-     "min": 2250.0,
+     "promedio": 2219.0,
+     "min": 2125.0,
      "max": 2250.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
@@ -2983,39 +3273,39 @@
      "promedio": 2050.0,
      "min": 2000.0,
      "max": 2200.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 2530.0,
+     "promedio": 2450.0,
      "min": 2400.0,
-     "max": 2720.0,
-     "fecha": "2026-11-02",
+     "max": 2600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 3475.0,
-     "min": 3400.0,
-     "max": 3500.0,
-     "fecha": "2026-11-02",
+     "promedio": 3525.0,
+     "min": 3500.0,
+     "max": 3600.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2488.0,
-     "min": 2450.0,
-     "max": 2500.0,
-     "fecha": "2026-11-02",
+     "promedio": 2750.0,
+     "min": 2750.0,
+     "max": 2750.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Zanahoria",
-     "promedio": 1083.0,
+     "promedio": 1028.0,
      "min": 1000.0,
      "max": 1111.111111111111,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -3028,95 +3318,95 @@
      "promedio": 3800.0,
      "min": 3600.0,
      "max": 4000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Arveja verde en vaina",
-     "promedio": 3900.0,
-     "min": 3600.0,
-     "max": 4000.0,
-     "fecha": "2026-11-02",
+     "promedio": 4500.0,
+     "min": 4400.0,
+     "max": 4600.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 1849.0,
+     "promedio": 1823.0,
      "min": 1770.8333333333333,
      "max": 1875.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 944.0,
+     "promedio": 889.0,
      "min": 888.8888888888889,
-     "max": 1022.2222222222222,
-     "fecha": "2026-11-02",
+     "max": 888.8888888888889,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Fríjol verde*",
-     "promedio": 6100.0,
-     "min": 6000.0,
-     "max": 6400.0,
-     "fecha": "2026-11-02",
+     "promedio": 5800.0,
+     "min": 5600.0,
+     "max": 6000.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Guayaba*",
-     "promedio": 3000.0,
+     "promedio": 2875.0,
      "min": 2750.0,
-     "max": 3250.0,
-     "fecha": "2026-11-02",
+     "max": 3000.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 4500.0,
+     "promedio": 4333.0,
      "min": 4333.333333333333,
-     "max": 4666.666666666667,
-     "fecha": "2026-11-02",
+     "max": 4333.333333333333,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 1500.0,
+     "promedio": 1423.0,
      "min": 1384.6153846153845,
      "max": 1538.4615384615386,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Tahití",
-     "promedio": 1821.0,
-     "min": 1714.2857142857142,
+     "promedio": 1964.0,
+     "min": 1857.142857142857,
      "max": 2000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 3449.0,
-     "min": 3391.304347826087,
+     "promedio": 3333.0,
+     "min": 3260.8695652173915,
      "max": 3478.2608695652175,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mango tommy",
-     "promedio": 5000.0,
-     "min": 4800.0,
-     "max": 5200.0,
-     "fecha": "2026-11-02",
+     "promedio": 4500.0,
+     "min": 4400.0,
+     "max": 4600.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Manzana royal gala",
-     "promedio": 7434.0,
-     "min": 7105.263157894737,
-     "max": 7631.578947368421,
-     "fecha": "2026-11-02",
+     "promedio": 7566.0,
+     "min": 7368.421052631579,
+     "max": 7894.736842105263,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
@@ -3124,23 +3414,23 @@
      "promedio": 5417.0,
      "min": 5333.333333333333,
      "max": 5666.666666666667,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 6000.0,
-     "min": 6000.0,
-     "max": 6000.0,
-     "fecha": "2026-11-02",
+     "promedio": 4906.0,
+     "min": 4625.0,
+     "max": 5250.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 2250.0,
+     "promedio": 2300.0,
      "min": 2200.0,
      "max": 2400.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
@@ -3148,15 +3438,15 @@
      "promedio": 2917.0,
      "min": 2916.6666666666665,
      "max": 2916.6666666666665,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 2750.0,
+     "promedio": 2700.0,
      "min": 2600.0,
      "max": 2800.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -3164,31 +3454,31 @@
      "promedio": 4196.0,
      "min": 3928.5714285714284,
      "max": 4285.714285714285,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 3450.0,
+     "promedio": 3500.0,
      "min": 3400.0,
      "max": 3600.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 2250.0,
-     "min": 2000.0,
-     "max": 2500.0,
-     "fecha": "2026-11-02",
+     "promedio": 2563.0,
+     "min": 2500.0,
+     "max": 2750.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Zanahoria",
-     "promedio": 950.0,
+     "promedio": 955.0,
      "min": 900.0,
      "max": 1000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -3198,74 +3488,74 @@
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 10000.0,
-     "min": 9000.0,
-     "max": 11000.0,
-     "fecha": "2026-10-30",
+     "promedio": 11333.0,
+     "min": 11000.0,
+     "max": 12000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Ahuyama",
-     "promedio": 1700.0,
-     "min": 1500.0,
-     "max": 1800.0,
-     "fecha": "2026-10-30",
+     "promedio": 2133.0,
+     "min": 1900.0,
+     "max": 2300.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Arracacha*",
-     "promedio": 4250.0,
-     "min": 4166.666666666667,
-     "max": 4333.333333333333,
-     "fecha": "2026-10-30",
+     "promedio": 4500.0,
+     "min": 4500.0,
+     "max": 4500.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Arveja verde en vaina",
-     "promedio": 5733.0,
+     "promedio": 6000.0,
      "min": 5600.0,
-     "max": 6000.0,
-     "fecha": "2026-10-30",
+     "max": 6400.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Banano*",
-     "promedio": 1633.0,
+     "promedio": 1667.0,
      "min": 1500.0,
      "max": 1800.0,
-     "fecha": "2026-10-30",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 1733.0,
-     "min": 1600.0,
-     "max": 1800.0,
-     "fecha": "2026-10-30",
+     "promedio": 2100.0,
+     "min": 2000.0,
+     "max": 2200.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 1889.0,
+     "promedio": 1822.0,
      "min": 1666.6666666666667,
      "max": 2000.0,
-     "fecha": "2026-10-30",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Coco",
-     "promedio": 4511.0,
-     "min": 4333.333333333333,
-     "max": 4666.666666666667,
-     "fecha": "2026-10-30",
+     "promedio": 4778.0,
+     "min": 4533.333333333333,
+     "max": 5133.333333333333,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Fríjol verde*",
-     "promedio": 6750.0,
-     "min": 6500.0,
-     "max": 7000.0,
-     "fecha": "2026-10-30",
+     "promedio": 6000.0,
+     "min": 6000.0,
+     "max": 6000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -3278,10 +3568,10 @@
     },
     {
      "producto": "Guayaba*",
-     "promedio": 3100.0,
-     "min": 3000.0,
-     "max": 3200.0,
-     "fecha": "2026-10-30",
+     "promedio": 2767.0,
+     "min": 2500.0,
+     "max": 3000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -3289,55 +3579,55 @@
      "promedio": 3200.0,
      "min": 3200.0,
      "max": 3200.0,
-     "fecha": "2026-10-30",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 2278.0,
-     "min": 2166.6666666666665,
-     "max": 2333.3333333333335,
-     "fecha": "2026-10-30",
+     "promedio": 2639.0,
+     "min": 2500.0,
+     "max": 2750.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 3833.0,
-     "min": 3500.0,
-     "max": 4000.0,
-     "fecha": "2026-10-30",
+     "promedio": 4167.0,
+     "min": 4000.0,
+     "max": 4500.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Limón Tahití",
-     "promedio": 1667.0,
-     "min": 1500.0,
-     "max": 2000.0,
-     "fecha": "2026-10-30",
+     "promedio": 2667.0,
+     "min": 2000.0,
+     "max": 3000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 5300.0,
+     "promedio": 5500.0,
      "min": 5000.0,
-     "max": 5500.0,
-     "fecha": "2026-10-30",
+     "max": 6000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mandarina*",
-     "promedio": 1633.0,
-     "min": 1400.0,
-     "max": 2000.0,
-     "fecha": "2026-10-30",
+     "promedio": 2333.0,
+     "min": 2000.0,
+     "max": 2500.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mango tommy",
-     "promedio": 5267.0,
+     "promedio": 5400.0,
      "min": 5200.0,
-     "max": 5400.0,
-     "fecha": "2026-10-30",
+     "max": 5600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -3345,87 +3635,87 @@
      "promedio": 7281.0,
      "min": 6842.105263157895,
      "max": 7631.578947368421,
-     "fecha": "2026-10-30",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Maracuyá",
-     "promedio": 4250.0,
-     "min": 4000.0,
-     "max": 4500.0,
-     "fecha": "2026-10-30",
+     "promedio": 4500.0,
+     "min": 4200.0,
+     "max": 4700.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 8750.0,
-     "min": 8500.0,
+     "promedio": 8333.0,
+     "min": 8000.0,
      "max": 9000.0,
-     "fecha": "2026-10-30",
+     "fecha": "2026-11-04",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Naranja*",
-     "promedio": 1833.0,
-     "min": 1700.0,
+     "promedio": 1933.0,
+     "min": 1800.0,
      "max": 2000.0,
-     "fecha": "2026-10-30",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 3167.0,
-     "min": 3000.0,
-     "max": 3300.0,
-     "fecha": "2026-10-30",
+     "promedio": 3867.0,
+     "min": 3600.0,
+     "max": 4000.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 2150.0,
-     "min": 2100.0,
-     "max": 2200.0,
-     "fecha": "2026-10-30",
+     "promedio": 2213.0,
+     "min": 2140.0,
+     "max": 2300.0,
+     "fecha": "2026-11-04",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papaya maradol",
-     "promedio": 2133.0,
+     "promedio": 2100.0,
      "min": 2000.0,
      "max": 2200.0,
-     "fecha": "2026-10-30",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 2450.0,
-     "min": 2300.0,
-     "max": 2500.0,
-     "fecha": "2026-10-30",
+     "promedio": 2550.0,
+     "min": 2500.0,
+     "max": 2700.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 5500.0,
-     "min": 5500.0,
-     "max": 5500.0,
-     "fecha": "2026-10-30",
+     "promedio": 6000.0,
+     "min": 6000.0,
+     "max": 6000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Piña *",
-     "promedio": 4500.0,
-     "min": 4400.0,
-     "max": 4600.0,
-     "fecha": "2026-10-30",
+     "promedio": 4067.0,
+     "min": 3800.0,
+     "max": 4400.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 2067.0,
-     "min": 2000.0,
-     "max": 2200.0,
-     "fecha": "2026-10-30",
+     "promedio": 2300.0,
+     "min": 2200.0,
+     "max": 2400.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
@@ -3433,132 +3723,252 @@
      "promedio": 1633.0,
      "min": 1500.0,
      "max": 1800.0,
-     "fecha": "2026-10-30",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 3450.0,
-     "min": 3000.0,
-     "max": 3800.0,
-     "fecha": "2026-10-30",
+     "promedio": 3000.0,
+     "min": 2500.0,
+     "max": 3500.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 3500.0,
+     "promedio": 3667.0,
      "min": 3500.0,
-     "max": 3500.0,
-     "fecha": "2026-10-30",
+     "max": 4000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2000.0,
+     "promedio": 2040.0,
      "min": 2000.0,
-     "max": 2000.0,
-     "fecha": "2026-10-30",
+     "max": 2080.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     }
    ]
   },
-  "Santa Marta (Magdalena)": {
-   "ciudad": "Santa Marta (Magdalena)",
+  "Popayán, Plaza de mercado del barrio Bolívar": {
+   "ciudad": "Popayán",
    "precios": [
     {
+     "producto": "Aguacate*",
+     "promedio": 10100.0,
+     "min": 10000.0,
+     "max": 10200.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Ahuyama",
+     "promedio": 1700.0,
+     "min": 1680.0,
+     "max": 1720.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Arveja verde en vaina",
+     "promedio": 6150.0,
+     "min": 6000.0,
+     "max": 6200.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
      "producto": "Banano*",
-     "promedio": 1206.0,
-     "min": 1176.4705882352941,
-     "max": 1235.2941176470588,
-     "fecha": "2026-11-03",
+     "promedio": 2275.0,
+     "min": 2200.0,
+     "max": 2300.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 2550.0,
-     "min": 2500.0,
-     "max": 2600.0,
-     "fecha": "2026-11-03",
+     "promedio": 2057.0,
+     "min": 1979.1666666666667,
+     "max": 2083.3333333333335,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Cebolla junca",
+     "promedio": 1311.0,
+     "min": 1244.4444444444443,
+     "max": 1333.3333333333333,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Chócolo mazorca",
-     "promedio": 3100.0,
-     "min": 3000.0,
-     "max": 3200.0,
-     "fecha": "2026-11-03",
+     "promedio": 1579.0,
+     "min": 1571.4285714285713,
+     "max": 1600.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Fríjol verde*",
+     "promedio": 6235.0,
+     "min": 6200.0,
+     "max": 6300.0,
+     "fecha": "2026-11-06",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Granadilla",
+     "promedio": 6600.0,
+     "min": 6533.333333333333,
+     "max": 6666.666666666667,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Guayaba*",
+     "promedio": 3525.0,
+     "min": 3500.0,
+     "max": 3600.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Habichuela",
+     "promedio": 2380.0,
+     "min": 2320.0,
+     "max": 2400.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 3250.0,
-     "min": 3166.6666666666665,
-     "max": 3333.3333333333335,
-     "fecha": "2026-11-03",
+     "promedio": 1673.0,
+     "min": 1615.3846153846155,
+     "max": 1692.3076923076924,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 6450.0,
-     "min": 6400.0,
-     "max": 6500.0,
-     "fecha": "2026-11-03",
+     "promedio": 4560.0,
+     "min": 4480.0,
+     "max": 4600.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mandarina*",
+     "promedio": 3560.0,
+     "min": 3520.0,
+     "max": 3600.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mango tommy",
+     "promedio": 5960.0,
+     "min": 5920.0,
+     "max": 6000.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Manzana royal gala",
+     "promedio": 7500.0,
+     "min": 7368.421052631579,
+     "max": 7631.578947368421,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Maracuyá",
+     "promedio": 6025.0,
+     "min": 6000.0,
+     "max": 6100.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 7120.0,
-     "min": 7040.0,
-     "max": 7200.0,
-     "fecha": "2026-11-03",
+     "promedio": 6860.0,
+     "min": 6800.0,
+     "max": 6960.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Papa criolla",
+     "promedio": 3313.0,
+     "min": 3250.0,
+     "max": 3333.3333333333335,
+     "fecha": "2026-11-06",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Papa negra*",
+     "promedio": 4050.0,
+     "min": 4000.0,
+     "max": 4100.0,
+     "fecha": "2026-11-06",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Papaya maradol",
+     "promedio": 2225.0,
+     "min": 2200.0,
+     "max": 2300.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 2380.0,
-     "min": 2360.0,
-     "max": 2400.0,
-     "fecha": "2026-11-03",
+     "promedio": 2058.0,
+     "min": 2000.0,
+     "max": 2076.923076923077,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 3958.0,
-     "min": 3750.0,
-     "max": 4166.666666666667,
-     "fecha": "2026-11-03",
+     "promedio": 4893.0,
+     "min": 4571.428571428572,
+     "max": 5000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
-     "producto": "Plátano hartón verde",
-     "promedio": 2625.0,
-     "min": 2600.0,
-     "max": 2650.0,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Remolacha",
-     "promedio": 1583.0,
-     "min": 1500.0,
-     "max": 1666.6666666666667,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Tomate de árbol",
-     "promedio": 3800.0,
-     "min": 3600.0,
-     "max": 4000.0,
-     "fecha": "2026-11-03",
+     "producto": "Piña *",
+     "promedio": 3375.0,
+     "min": 3300.0,
+     "max": 3400.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
-     "producto": "Zanahoria",
-     "promedio": 1583.0,
-     "min": 1500.0,
-     "max": 1666.6666666666667,
-     "fecha": "2026-11-03",
+     "producto": "Plátano hartón verde",
+     "promedio": 2180.0,
+     "min": 2120.0,
+     "max": 2200.0,
+     "fecha": "2026-11-04",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Tomate de árbol",
+     "promedio": 2552.0,
+     "min": 2528.0,
+     "max": 2560.0,
+     "fecha": "2026-11-06",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Tomate*",
+     "promedio": 3150.0,
+     "min": 3100.0,
+     "max": 3200.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -3568,34 +3978,34 @@
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 10200.0,
+     "promedio": 10667.0,
      "min": 10000.0,
-     "max": 10600.0,
-     "fecha": "2026-11-02",
+     "max": 12000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Ahuyama",
-     "promedio": 1800.0,
+     "promedio": 1850.0,
      "min": 1800.0,
-     "max": 1800.0,
-     "fecha": "2026-11-02",
+     "max": 1900.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Banano*",
-     "promedio": 2100.0,
-     "min": 2100.0,
-     "max": 2100.0,
-     "fecha": "2026-11-02",
+     "promedio": 1800.0,
+     "min": 1800.0,
+     "max": 1800.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 1775.0,
-     "min": 200.0,
+     "promedio": 2325.0,
+     "min": 2200.0,
      "max": 2400.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -3603,7 +4013,7 @@
      "promedio": 980.0,
      "min": 920.0,
      "max": 1000.0,
-     "fecha": "2026-10-30",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -3611,7 +4021,7 @@
      "promedio": 1600.0,
      "min": 1600.0,
      "max": 1600.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -3619,55 +4029,55 @@
      "promedio": 5000.0,
      "min": 5000.0,
      "max": 5000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Fríjol verde*",
-     "promedio": 7000.0,
+     "promedio": 7167.0,
      "min": 7000.0,
-     "max": 7000.0,
-     "fecha": "2026-11-02",
+     "max": 7500.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 3575.0,
+     "promedio": 3375.0,
      "min": 3000.0,
      "max": 4000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 2050.0,
-     "min": 2000.0,
-     "max": 2200.0,
-     "fecha": "2026-11-02",
+     "promedio": 2650.0,
+     "min": 2600.0,
+     "max": 2800.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 3333.0,
-     "min": 2857.1428571428573,
-     "max": 3571.4285714285716,
-     "fecha": "2026-11-02",
+     "promedio": 3500.0,
+     "min": 3285.714285714286,
+     "max": 3714.285714285714,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 5750.0,
-     "min": 5500.0,
+     "promedio": 5800.0,
+     "min": 5600.0,
      "max": 6000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 7917.0,
-     "min": 7500.0,
-     "max": 8125.0,
-     "fecha": "2026-11-02",
+     "promedio": 8750.0,
+     "min": 8750.0,
+     "max": 8750.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -3675,79 +4085,79 @@
      "promedio": 2063.0,
      "min": 2000.0,
      "max": 2125.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 4625.0,
-     "min": 4000.0,
+     "promedio": 4750.0,
+     "min": 4500.0,
      "max": 5000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 3300.0,
-     "min": 3300.0,
-     "max": 3300.0,
-     "fecha": "2026-10-30",
+     "promedio": 3850.0,
+     "min": 3800.0,
+     "max": 3900.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 2000.0,
+     "promedio": 2133.0,
      "min": 2000.0,
-     "max": 2000.0,
-     "fecha": "2026-11-02",
+     "max": 2200.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 6125.0,
-     "min": 6000.0,
-     "max": 6500.0,
-     "fecha": "2026-11-02",
+     "promedio": 5575.0,
+     "min": 5000.0,
+     "max": 6300.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 2338.0,
-     "min": 2295.0,
-     "max": 2423.0,
-     "fecha": "2026-11-02",
+     "promedio": 2232.0,
+     "min": 2168.0,
+     "max": 2295.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Remolacha",
-     "promedio": 2375.0,
+     "promedio": 2075.0,
      "min": 2000.0,
-     "max": 2500.0,
-     "fecha": "2026-11-02",
+     "max": 2300.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 2650.0,
-     "min": 2400.0,
-     "max": 2800.0,
-     "fecha": "2026-11-02",
+     "promedio": 2400.0,
+     "min": 2200.0,
+     "max": 2600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 3250.0,
-     "min": 3000.0,
-     "max": 3500.0,
-     "fecha": "2026-11-02",
+     "promedio": 3800.0,
+     "min": 3600.0,
+     "max": 4000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2375.0,
+     "promedio": 2250.0,
      "min": 2250.0,
-     "max": 2500.0,
-     "fecha": "2026-11-02",
+     "max": 2250.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
@@ -3755,7 +4165,7 @@
      "promedio": 1156.0,
      "min": 1125.0,
      "max": 1250.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -3768,31 +4178,31 @@
      "promedio": 1700.0,
      "min": 1700.0,
      "max": 1700.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Arracacha*",
      "promedio": 5200.0,
-     "min": 4800.0,
-     "max": 5600.0,
-     "fecha": "2026-10-28",
+     "min": 5200.0,
+     "max": 5200.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Banano*",
-     "promedio": 806.0,
-     "min": 750.0,
-     "max": 833.3333333333334,
-     "fecha": "2026-11-02",
+     "promedio": 889.0,
+     "min": 833.3333333333334,
+     "max": 916.6666666666666,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 2533.0,
-     "min": 2400.0,
-     "max": 2600.0,
-     "fecha": "2026-11-02",
+     "promedio": 1867.0,
+     "min": 1800.0,
+     "max": 2000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -3800,15 +4210,15 @@
      "promedio": 2400.0,
      "min": 2400.0,
      "max": 2400.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 4000.0,
-     "min": 4000.0,
-     "max": 4000.0,
-     "fecha": "2026-11-02",
+     "promedio": 3583.0,
+     "min": 3500.0,
+     "max": 3750.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -3816,23 +4226,23 @@
      "promedio": 2917.0,
      "min": 2916.6666666666665,
      "max": 2916.6666666666665,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 3194.0,
-     "min": 3083.7004405286343,
-     "max": 3303.964757709251,
-     "fecha": "2026-11-02",
+     "promedio": 3744.0,
+     "min": 3744.493392070485,
+     "max": 3744.493392070485,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 5800.0,
-     "min": 5600.0,
+     "promedio": 5900.0,
+     "min": 5800.0,
      "max": 6000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -3840,87 +4250,87 @@
      "promedio": 4400.0,
      "min": 4400.0,
      "max": 4400.0,
-     "fecha": "2026-10-28",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 6800.0,
-     "min": 6600.0,
+     "promedio": 7000.0,
+     "min": 7000.0,
      "max": 7000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Naranja*",
-     "promedio": 2500.0,
-     "min": 2500.0,
+     "promedio": 2386.0,
+     "min": 2272.7272727272725,
      "max": 2500.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
      "promedio": 5000.0,
-     "min": 4800.0,
-     "max": 5200.0,
-     "fecha": "2026-11-02",
+     "min": 5000.0,
+     "max": 5000.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 2067.0,
-     "min": 2000.0,
-     "max": 2100.0,
-     "fecha": "2026-11-02",
+     "promedio": 2233.0,
+     "min": 2200.0,
+     "max": 2300.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 1733.0,
-     "min": 1600.0,
+     "promedio": 1767.0,
+     "min": 1700.0,
      "max": 1800.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 5972.0,
-     "min": 5833.333333333333,
-     "max": 6250.0,
-     "fecha": "2026-11-02",
+     "promedio": 6528.0,
+     "min": 6250.0,
+     "max": 6666.666666666667,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Piña *",
-     "promedio": 3700.0,
+     "promedio": 3600.0,
      "min": 3600.0,
-     "max": 3800.0,
-     "fecha": "2026-11-02",
+     "max": 3600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 3300.0,
+     "promedio": 3350.0,
      "min": 3300.0,
-     "max": 3300.0,
-     "fecha": "2026-11-02",
+     "max": 3450.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Remolacha",
-     "promedio": 1444.0,
-     "min": 1333.3333333333333,
+     "promedio": 1472.0,
+     "min": 1416.6666666666667,
      "max": 1500.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 4133.0,
+     "promedio": 4067.0,
      "min": 4000.0,
-     "max": 4400.0,
-     "fecha": "2026-11-02",
+     "max": 4200.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -3928,7 +4338,7 @@
      "promedio": 4000.0,
      "min": 4000.0,
      "max": 4000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -3936,15 +4346,15 @@
      "promedio": 2500.0,
      "min": 2500.0,
      "max": 2500.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Zanahoria",
-     "promedio": 1167.0,
+     "promedio": 1222.0,
      "min": 1166.6666666666667,
-     "max": 1166.6666666666667,
-     "fecha": "2026-11-02",
+     "max": 1333.3333333333333,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -3954,10 +4364,10 @@
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 11000.0,
-     "min": 11000.0,
-     "max": 11000.0,
-     "fecha": "2026-11-02",
+     "promedio": 11350.0,
+     "min": 11200.0,
+     "max": 11500.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -3973,23 +4383,15 @@
      "promedio": 4500.0,
      "min": 4000.0,
      "max": 5000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 2900.0,
-     "min": 2800.0,
-     "max": 3000.0,
-     "fecha": "2026-11-02",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Lulo",
-     "promedio": 5400.0,
-     "min": 5200.0,
-     "max": 5600.0,
-     "fecha": "2026-10-26",
+     "promedio": 3700.0,
+     "min": 3400.0,
+     "max": 4000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -3997,7 +4399,7 @@
      "promedio": 8000.0,
      "min": 7500.0,
      "max": 8500.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -4005,23 +4407,23 @@
      "promedio": 2500.0,
      "min": 2500.0,
      "max": 2500.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 2050.0,
-     "min": 2000.0,
-     "max": 2100.0,
-     "fecha": "2026-11-02",
+     "promedio": 2200.0,
+     "min": 2200.0,
+     "max": 2200.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 6042.0,
-     "min": 5833.333333333333,
-     "max": 6250.0,
-     "fecha": "2026-11-02",
+     "promedio": 6458.0,
+     "min": 6250.0,
+     "max": 6666.666666666667,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -4029,7 +4431,7 @@
      "promedio": 4000.0,
      "min": 4000.0,
      "max": 4000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
@@ -4039,26 +4441,26 @@
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 11250.0,
-     "min": 11000.0,
+     "promedio": 11125.0,
+     "min": 10000.0,
      "max": 12000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Arracacha*",
-     "promedio": 4400.0,
+     "promedio": 4500.0,
      "min": 4400.0,
-     "max": 4400.0,
-     "fecha": "2026-11-02",
+     "max": 4600.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Arveja verde en vaina",
-     "promedio": 4900.0,
-     "min": 4800.0,
-     "max": 5000.0,
-     "fecha": "2026-11-02",
+     "promedio": 6800.0,
+     "min": 6600.0,
+     "max": 7000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
@@ -4066,7 +4468,7 @@
      "promedio": 1180.0,
      "min": 1120.0,
      "max": 1200.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -4074,199 +4476,199 @@
      "promedio": 1850.0,
      "min": 1800.0,
      "max": 2000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 1750.0,
-     "min": 1666.6666666666667,
-     "max": 1833.3333333333333,
-     "fecha": "2026-11-02",
+     "promedio": 1542.0,
+     "min": 1500.0,
+     "max": 1666.6666666666667,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Chócolo mazorca",
-     "promedio": 2100.0,
-     "min": 2000.0,
-     "max": 2200.0,
-     "fecha": "2026-11-02",
+     "promedio": 1950.0,
+     "min": 1800.0,
+     "max": 2000.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Fríjol verde*",
-     "promedio": 4900.0,
-     "min": 4800.0,
-     "max": 5000.0,
-     "fecha": "2026-11-02",
+     "promedio": 5350.0,
+     "min": 5200.0,
+     "max": 5600.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Granadilla",
-     "promedio": 6667.0,
-     "min": 6666.666666666667,
+     "promedio": 6550.0,
+     "min": 6333.333333333333,
      "max": 6666.666666666667,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Guayaba*",
-     "promedio": 1406.0,
-     "min": 1250.0,
-     "max": 1458.3333333333333,
-     "fecha": "2026-11-02",
+     "promedio": 1615.0,
+     "min": 1458.3333333333333,
+     "max": 1666.6666666666667,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 5000.0,
-     "min": 5000.0,
+     "promedio": 4917.0,
+     "min": 4666.666666666667,
      "max": 5000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 3300.0,
-     "min": 3000.0,
+     "promedio": 3600.0,
+     "min": 3600.0,
      "max": 3600.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 3400.0,
+     "promedio": 3450.0,
      "min": 3200.0,
      "max": 3600.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Limón Tahití",
-     "promedio": 2400.0,
-     "min": 2400.0,
-     "max": 2400.0,
-     "fecha": "2026-11-02",
+     "promedio": 2750.0,
+     "min": 2600.0,
+     "max": 2800.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 5050.0,
-     "min": 4800.0,
-     "max": 5200.0,
-     "fecha": "2026-11-02",
+     "promedio": 4600.0,
+     "min": 4400.0,
+     "max": 4800.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mandarina*",
-     "promedio": 3300.0,
-     "min": 3200.0,
-     "max": 3600.0,
-     "fecha": "2026-11-02",
+     "promedio": 3700.0,
+     "min": 3600.0,
+     "max": 4000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mango tommy",
-     "promedio": 5950.0,
-     "min": 5600.0,
-     "max": 6400.0,
-     "fecha": "2026-11-02",
+     "promedio": 5750.0,
+     "min": 5400.0,
+     "max": 6000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Manzana royal gala",
-     "promedio": 8553.0,
-     "min": 8157.894736842105,
-     "max": 8947.368421052632,
-     "fecha": "2026-11-02",
+     "promedio": 8158.0,
+     "min": 7894.736842105263,
+     "max": 8421.052631578947,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Maracuyá",
-     "promedio": 4125.0,
-     "min": 4000.0,
-     "max": 4500.0,
-     "fecha": "2026-11-02",
+     "promedio": 4750.0,
+     "min": 4500.0,
+     "max": 5200.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 10125.0,
-     "min": 9500.0,
-     "max": 11000.0,
-     "fecha": "2026-11-02",
+     "promedio": 9500.0,
+     "min": 9000.0,
+     "max": 10000.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Naranja*",
-     "promedio": 1420.0,
+     "promedio": 1450.0,
      "min": 1400.0,
-     "max": 1480.0,
-     "fecha": "2026-11-02",
+     "max": 1600.0,
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 2900.0,
-     "min": 2800.0,
-     "max": 3000.0,
-     "fecha": "2026-11-02",
+     "promedio": 3150.0,
+     "min": 3000.0,
+     "max": 3200.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 3200.0,
+     "promedio": 3175.0,
      "min": 3100.0,
-     "max": 3300.0,
-     "fecha": "2026-11-02",
+     "max": 3200.0,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 2650.0,
-     "min": 2600.0,
-     "max": 2800.0,
-     "fecha": "2026-11-02",
+     "promedio": 2200.0,
+     "min": 2000.0,
+     "max": 2400.0,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
-     "promedio": 4688.0,
-     "min": 4166.666666666667,
+     "promedio": 5104.0,
+     "min": 5000.0,
      "max": 5416.666666666667,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Plátano guineo",
-     "promedio": 2750.0,
+     "promedio": 2667.0,
      "min": 2666.6666666666665,
-     "max": 3000.0,
-     "fecha": "2026-11-02",
+     "max": 2666.6666666666665,
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Plátano hartón verde",
-     "promedio": 2700.0,
-     "min": 2560.0,
+     "promedio": 2780.0,
+     "min": 2720.0,
      "max": 2800.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Remolacha",
-     "promedio": 1542.0,
-     "min": 1500.0,
-     "max": 1666.6666666666667,
-     "fecha": "2026-11-02",
+     "promedio": 1271.0,
+     "min": 1166.6666666666667,
+     "max": 1333.3333333333333,
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 3900.0,
-     "min": 3800.0,
+     "promedio": 3800.0,
+     "min": 3600.0,
      "max": 4000.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "FRUTAS"
     },
     {
@@ -4274,7 +4676,7 @@
      "promedio": 2042.0,
      "min": 2000.0,
      "max": 2166.6666666666665,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
@@ -4282,20 +4684,20 @@
      "promedio": 1375.0,
      "min": 1333.3333333333333,
      "max": 1500.0,
-     "fecha": "2026-11-02",
+     "fecha": "2026-11-06",
      "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
   },
-  "Ibagué, Plaza La 21": {
-   "ciudad": "Ibagué",
+  "Cali, Cavasa": {
+   "ciudad": "Cali",
    "precios": [
     {
      "producto": "Aguacate*",
-     "promedio": 8333.0,
-     "min": 8000.0,
-     "max": 9000.0,
-     "fecha": "2026-11-03",
+     "promedio": 10500.0,
+     "min": 10000.0,
+     "max": 11000.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
@@ -4303,895 +4705,493 @@
      "promedio": 3000.0,
      "min": 3000.0,
      "max": 3000.0,
-     "fecha": "2026-10-30",
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Arracacha*",
-     "promedio": 3253.0,
-     "min": 3200.0,
-     "max": 3360.0,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Arveja verde en vaina",
-     "promedio": 5433.0,
-     "min": 5000.0,
-     "max": 6000.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Banano*",
-     "promedio": 2067.0,
-     "min": 2000.0,
-     "max": 2200.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Cebolla cabezona blanca",
-     "promedio": 1933.0,
-     "min": 1800.0,
-     "max": 2000.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Chócolo mazorca",
-     "promedio": 1600.0,
-     "min": 1600.0,
-     "max": 1600.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Fríjol verde*",
-     "promedio": 5733.0,
-     "min": 5600.0,
-     "max": 6000.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Granadilla",
-     "promedio": 4667.0,
-     "min": 4666.666666666667,
-     "max": 4666.666666666667,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Guayaba*",
-     "promedio": 2267.0,
-     "min": 2250.0,
-     "max": 2300.0,
-     "fecha": "2026-10-29",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Habichuela",
-     "promedio": 4933.0,
-     "min": 4800.0,
-     "max": 5200.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Lechuga batavia",
-     "promedio": 2987.0,
-     "min": 2880.0,
-     "max": 3200.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Limón Común",
-     "promedio": 2762.0,
-     "min": 2571.4285714285716,
-     "max": 2857.1428571428573,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Limón Tahití",
-     "promedio": 2667.0,
-     "min": 2571.4285714285716,
-     "max": 2857.1428571428573,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Lulo",
-     "promedio": 4533.0,
-     "min": 4400.0,
-     "max": 4800.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mango tommy",
-     "promedio": 4133.0,
+     "promedio": 4117.0,
      "min": 4000.0,
-     "max": 4400.0,
-     "fecha": "2026-10-29",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Manzana royal gala",
-     "promedio": 7895.0,
-     "min": 7894.736842105263,
-     "max": 7894.736842105263,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Maracuyá",
-     "promedio": 5200.0,
-     "min": 5200.0,
-     "max": 5200.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mora de Castilla",
-     "promedio": 8000.0,
-     "min": 8000.0,
-     "max": 8000.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Papa criolla",
-     "promedio": 3713.0,
-     "min": 3400.0,
-     "max": 4000.0,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Pepino cohombro",
-     "promedio": 2800.0,
-     "min": 2800.0,
-     "max": 2800.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Pimentón",
-     "promedio": 5400.0,
-     "min": 5200.0,
-     "max": 5600.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Piña *",
-     "promedio": 4000.0,
-     "min": 3800.0,
      "max": 4200.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Plátano hartón verde",
-     "promedio": 2400.0,
-     "min": 2100.0,
-     "max": 2800.0,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Remolacha",
-     "promedio": 1493.0,
-     "min": 1440.0,
-     "max": 1600.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Tomate de árbol",
-     "promedio": 2773.0,
-     "min": 2600.0,
-     "max": 3040.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Tomate*",
-     "promedio": 2867.0,
-     "min": 2800.0,
-     "max": 3000.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Zanahoria",
-     "promedio": 1893.0,
-     "min": 1600.0,
-     "max": 2400.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    }
-   ]
-  },
-  "Pereira, La 41-Impala": {
-   "ciudad": "Pereira",
-   "precios": [
-    {
-     "producto": "Aguacate*",
-     "promedio": 10000.0,
-     "min": 9000.0,
-     "max": 11000.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Ahuyama",
-     "promedio": 1833.0,
-     "min": 1500.0,
-     "max": 2000.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Arracacha*",
-     "promedio": 3750.0,
-     "min": 3666.6666666666665,
-     "max": 3833.3333333333335,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Arveja verde en vaina",
-     "promedio": 6520.0,
-     "min": 6240.0,
-     "max": 6800.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Banano*",
-     "promedio": 1950.0,
-     "min": 1800.0,
+     "promedio": 1922.0,
+     "min": 1866.6666666666667,
      "max": 2000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Cebolla cabezona blanca",
-     "promedio": 2300.0,
-     "min": 2200.0,
-     "max": 2400.0,
-     "fecha": "2026-11-03",
+     "promedio": 2218.0,
+     "min": 2187.5,
+     "max": 2291.6666666666665,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Cebolla junca",
-     "promedio": 2111.0,
-     "min": 2000.0,
-     "max": 2333.3333333333335,
-     "fecha": "2026-11-03",
+     "promedio": 852.0,
+     "min": 800.0,
+     "max": 888.8888888888889,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Chócolo mazorca",
+     "promedio": 1917.0,
+     "min": 1857.142857142857,
+     "max": 2000.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Coco",
+     "promedio": 4444.0,
+     "min": 4242.424242424242,
+     "max": 4545.454545454545,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
     },
     {
      "producto": "Fríjol verde*",
-     "promedio": 7750.0,
-     "min": 7500.0,
-     "max": 8000.0,
-     "fecha": "2026-11-03",
+     "promedio": 6717.0,
+     "min": 6600.0,
+     "max": 6800.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
+     "producto": "Granadilla",
+     "promedio": 5667.0,
+     "min": 5666.666666666667,
+     "max": 5666.666666666667,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
      "producto": "Guayaba*",
-     "promedio": 3133.0,
+     "promedio": 3050.0,
      "min": 3000.0,
      "max": 3200.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Habichuela",
-     "promedio": 3813.0,
-     "min": 3600.0,
-     "max": 4000.0,
-     "fecha": "2026-11-03",
+     "promedio": 2750.0,
+     "min": 2600.0,
+     "max": 2800.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Lechuga batavia",
-     "promedio": 2167.0,
-     "min": 2000.0,
-     "max": 2500.0,
-     "fecha": "2026-11-03",
+     "promedio": 1189.0,
+     "min": 1153.8461538461538,
+     "max": 1230.7692307692307,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Limón Común",
-     "promedio": 4250.0,
-     "min": 4000.0,
-     "max": 4500.0,
-     "fecha": "2026-11-03",
+     "promedio": 2167.0,
+     "min": 2000.0,
+     "max": 2333.3333333333335,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Limón Tahití",
      "promedio": 2000.0,
-     "min": 1800.0,
-     "max": 2200.0,
-     "fecha": "2026-11-03",
+     "min": 2000.0,
+     "max": 2000.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Lulo",
-     "promedio": 5767.0,
+     "promedio": 4400.0,
+     "min": 4300.0,
+     "max": 4500.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mandarina*",
+     "promedio": 3708.0,
+     "min": 3500.0,
+     "max": 4000.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mango tommy",
+     "promedio": 5800.0,
+     "min": 5600.0,
+     "max": 6000.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Manzana royal gala",
+     "promedio": 7368.0,
+     "min": 7368.421052631579,
+     "max": 7368.421052631579,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Maracuyá",
+     "promedio": 5646.0,
      "min": 5500.0,
      "max": 6000.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Mora de Castilla",
+     "promedio": 7000.0,
+     "min": 6800.0,
+     "max": 7200.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Papa criolla",
+     "promedio": 4000.0,
+     "min": 4000.0,
+     "max": 4000.0,
+     "fecha": "2026-11-05",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Papa negra*",
+     "promedio": 3442.0,
+     "min": 3400.0,
+     "max": 3500.0,
+     "fecha": "2026-11-05",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Papaya maradol",
+     "promedio": 2000.0,
+     "min": 2000.0,
+     "max": 2000.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Pepino cohombro",
+     "promedio": 1958.0,
+     "min": 1833.3333333333333,
+     "max": 2000.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Pimentón",
+     "promedio": 5417.0,
+     "min": 5300.0,
+     "max": 5500.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Piña *",
+     "promedio": 3642.0,
+     "min": 3600.0,
+     "max": 3700.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Plátano hartón verde",
+     "promedio": 2100.0,
+     "min": 2100.0,
+     "max": 2100.0,
+     "fecha": "2026-11-05",
+     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+    },
+    {
+     "producto": "Remolacha",
+     "promedio": 1333.0,
+     "min": 1333.3333333333333,
+     "max": 1333.3333333333333,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Tomate de árbol",
+     "promedio": 2458.0,
+     "min": 2400.0,
+     "max": 2500.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Tomate*",
+     "promedio": 3758.0,
+     "min": 3700.0,
+     "max": 3800.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    }
+   ]
+  },
+  "Manizales, Centro Galerías": {
+   "ciudad": "Manizales",
+   "precios": [
+    {
+     "producto": "Aguacate*",
+     "promedio": 8000.0,
+     "min": 7800.0,
+     "max": 8200.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Ahuyama",
+     "promedio": 2800.0,
+     "min": 2750.0,
+     "max": 2850.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Arveja verde en vaina",
+     "promedio": 6800.0,
+     "min": 6700.0,
+     "max": 6900.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Banano*",
+     "promedio": 1500.0,
+     "min": 1500.0,
+     "max": 1500.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Cebolla cabezona blanca",
+     "promedio": 2200.0,
+     "min": 2100.0,
+     "max": 2300.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Cebolla junca",
+     "promedio": 2400.0,
+     "min": 2320.0,
+     "max": 2480.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Chócolo mazorca",
+     "promedio": 1700.0,
+     "min": 1660.0,
+     "max": 1740.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Coco",
+     "promedio": 7419.0,
+     "min": 7419.354838709677,
+     "max": 7419.354838709677,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Fríjol verde*",
+     "promedio": 8500.0,
+     "min": 8000.0,
+     "max": 9000.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Granadilla",
+     "promedio": 6333.0,
+     "min": 6000.0,
+     "max": 6666.666666666667,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Guayaba*",
+     "promedio": 4500.0,
+     "min": 4400.0,
+     "max": 4600.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Habichuela",
+     "promedio": 2400.0,
+     "min": 2240.0,
+     "max": 2560.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Lechuga batavia",
+     "promedio": 3800.0,
+     "min": 3600.0,
+     "max": 4000.0,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
+    },
+    {
+     "producto": "Limón Tahití",
+     "promedio": 2000.0,
+     "min": 1950.0,
+     "max": 2050.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Lulo",
+     "promedio": 6000.0,
+     "min": 5900.0,
+     "max": 6100.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mandarina*",
      "promedio": 3000.0,
-     "min": 2500.0,
-     "max": 3500.0,
-     "fecha": "2026-11-03",
+     "min": 2800.0,
+     "max": 3200.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mango tommy",
-     "promedio": 5733.0,
-     "min": 5200.0,
-     "max": 6000.0,
-     "fecha": "2026-11-03",
+     "promedio": 6000.0,
+     "min": 5800.0,
+     "max": 6200.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Manzana royal gala",
+     "promedio": 7368.0,
+     "min": 7368.421052631579,
+     "max": 7368.421052631579,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Maracuyá",
-     "promedio": 4833.0,
-     "min": 4500.0,
-     "max": 5000.0,
-     "fecha": "2026-11-03",
+     "promedio": 5000.0,
+     "min": 4980.0,
+     "max": 5020.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Mora de Castilla",
-     "promedio": 9000.0,
+     "promedio": 9500.0,
      "min": 9000.0,
-     "max": 9000.0,
-     "fecha": "2026-11-03",
+     "max": 10000.0,
+     "fecha": "2026-11-05",
+     "grupo": "FRUTAS"
+    },
+    {
+     "producto": "Naranja*",
+     "promedio": 1800.0,
+     "min": 1600.0,
+     "max": 2000.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Papa criolla",
-     "promedio": 4667.0,
-     "min": 4400.0,
-     "max": 5000.0,
-     "fecha": "2026-11-03",
+     "promedio": 3958.0,
+     "min": 3854.1666666666665,
+     "max": 4062.5,
+     "fecha": "2026-11-05",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papa negra*",
-     "promedio": 2900.0,
-     "min": 2800.0,
-     "max": 3000.0,
-     "fecha": "2026-11-03",
+     "promedio": 3160.0,
+     "min": 3120.0,
+     "max": 3200.0,
+     "fecha": "2026-11-05",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
     },
     {
      "producto": "Papaya maradol",
-     "promedio": 2433.0,
-     "min": 2300.0,
+     "promedio": 2375.0,
+     "min": 2050.0,
      "max": 2500.0,
-     "fecha": "2026-11-03",
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Pepino cohombro",
-     "promedio": 2767.0,
-     "min": 2500.0,
-     "max": 3000.0,
-     "fecha": "2026-11-03",
+     "promedio": 2500.0,
+     "min": 2450.0,
+     "max": 2550.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Pimentón",
      "promedio": 6000.0,
-     "min": 6000.0,
-     "max": 6000.0,
-     "fecha": "2026-11-03",
+     "min": 5500.0,
+     "max": 6500.0,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Piña *",
-     "promedio": 5500.0,
-     "min": 5400.0,
-     "max": 5600.0,
-     "fecha": "2026-11-03",
+     "promedio": 4300.0,
+     "min": 4000.0,
+     "max": 4600.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
-     "producto": "Plátano hartón verde",
-     "promedio": 2400.0,
-     "min": 2200.0,
-     "max": 2500.0,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
+     "producto": "Remolacha",
+     "promedio": 1636.0,
+     "min": 1636.3636363636363,
+     "max": 1636.3636363636363,
+     "fecha": "2026-11-05",
+     "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Tomate de árbol",
-     "promedio": 4133.0,
-     "min": 4000.0,
-     "max": 4200.0,
-     "fecha": "2026-11-03",
+     "promedio": 3000.0,
+     "min": 2800.0,
+     "max": 3200.0,
+     "fecha": "2026-11-05",
      "grupo": "FRUTAS"
     },
     {
      "producto": "Tomate*",
-     "promedio": 4167.0,
-     "min": 4000.0,
-     "max": 4500.0,
-     "fecha": "2026-11-03",
+     "promedio": 3636.0,
+     "min": 3545.4545454545455,
+     "max": 3727.2727272727275,
+     "fecha": "2026-11-05",
      "grupo": "VERDURAS Y HORTALIZAS"
     },
     {
      "producto": "Yuca*",
-     "promedio": 2260.0,
-     "min": 2200.0,
-     "max": 2320.0,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    }
-   ]
-  },
-  "Tunja, Complejo de Servicios del Sur": {
-   "ciudad": "Tunja",
-   "precios": [
-    {
-     "producto": "Aguacate*",
-     "promedio": 8667.0,
-     "min": 8500.0,
-     "max": 9000.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Ahuyama",
-     "promedio": 1680.0,
-     "min": 1562.5,
-     "max": 1875.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Arracacha*",
-     "promedio": 3375.0,
-     "min": 3333.3333333333335,
-     "max": 3500.0,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Arveja verde en vaina",
-     "promedio": 5050.0,
-     "min": 5000.0,
-     "max": 5200.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Banano*",
-     "promedio": 1967.0,
-     "min": 1900.0,
-     "max": 2000.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Cebolla cabezona blanca",
-     "promedio": 1750.0,
-     "min": 1600.0,
-     "max": 1900.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Cebolla junca",
-     "promedio": 1250.0,
-     "min": 1166.6666666666667,
-     "max": 1333.3333333333333,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Chócolo mazorca",
-     "promedio": 1550.0,
-     "min": 1400.0,
-     "max": 1600.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Fríjol verde*",
-     "promedio": 5300.0,
-     "min": 5000.0,
-     "max": 5600.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Granadilla",
-     "promedio": 5556.0,
-     "min": 5333.333333333333,
-     "max": 5666.666666666667,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Guayaba*",
-     "promedio": 2624.0,
-     "min": 2333.3333333333335,
-     "max": 2954.5454545454545,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Habichuela",
-     "promedio": 5200.0,
-     "min": 5200.0,
-     "max": 5200.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Lechuga batavia",
-     "promedio": 1567.0,
-     "min": 1466.6666666666667,
-     "max": 1666.6666666666667,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Limón Tahití",
-     "promedio": 3125.0,
-     "min": 2954.5454545454545,
-     "max": 3181.818181818182,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Lulo",
-     "promedio": 4467.0,
-     "min": 4400.0,
-     "max": 4600.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mandarina*",
-     "promedio": 2348.0,
-     "min": 2272.7272727272725,
-     "max": 2500.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mango tommy",
-     "promedio": 4762.0,
-     "min": 4642.857142857143,
-     "max": 5000.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Manzana royal gala",
-     "promedio": 8684.0,
-     "min": 8421.052631578947,
-     "max": 8947.368421052632,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Maracuyá",
-     "promedio": 4750.0,
-     "min": 4500.0,
-     "max": 5000.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mora de Castilla",
-     "promedio": 5625.0,
-     "min": 5500.0,
-     "max": 6000.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Naranja*",
-     "promedio": 1550.0,
-     "min": 1500.0,
-     "max": 1600.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Papa criolla",
-     "promedio": 2650.0,
+     "promedio": 2720.0,
      "min": 2600.0,
-     "max": 2800.0,
-     "fecha": "2026-11-03",
+     "max": 2840.0,
+     "fecha": "2026-11-05",
      "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Pepino cohombro",
-     "promedio": 2350.0,
-     "min": 2200.0,
-     "max": 2400.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Pimentón",
-     "promedio": 4732.0,
-     "min": 4285.714285714285,
-     "max": 5000.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Plátano hartón verde",
-     "promedio": 2400.0,
-     "min": 2250.0,
-     "max": 2500.0,
-     "fecha": "2026-11-03",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Remolacha",
-     "promedio": 650.0,
-     "min": 600.0,
-     "max": 700.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Tomate de árbol",
-     "promedio": 2850.0,
-     "min": 2800.0,
-     "max": 3000.0,
-     "fecha": "2026-11-03",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Zanahoria",
-     "promedio": 1050.0,
-     "min": 1000.0,
-     "max": 1200.0,
-     "fecha": "2026-11-03",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    }
-   ]
-  },
-  "Popayán, Plaza de mercado del barrio Bolívar": {
-   "ciudad": "Popayán",
-   "precios": [
-    {
-     "producto": "Aguacate*",
-     "promedio": 9750.0,
-     "min": 9600.0,
-     "max": 9800.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Ahuyama",
-     "promedio": 1625.0,
-     "min": 1600.0,
-     "max": 1700.0,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Arveja verde en vaina",
-     "promedio": 4850.0,
-     "min": 4800.0,
-     "max": 4900.0,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Banano*",
-     "promedio": 1925.0,
-     "min": 1900.0,
-     "max": 2000.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Cebolla cabezona blanca",
-     "promedio": 2422.0,
-     "min": 2395.8333333333335,
-     "max": 2500.0,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Cebolla junca",
-     "promedio": 1356.0,
-     "min": 1333.3333333333333,
-     "max": 1422.2222222222222,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Chócolo mazorca",
-     "promedio": 1893.0,
-     "min": 1857.142857142857,
-     "max": 1928.5714285714287,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Fríjol verde*",
-     "promedio": 6175.0,
-     "min": 6100.0,
-     "max": 6200.0,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Granadilla",
-     "promedio": 6750.0,
-     "min": 6666.666666666667,
-     "max": 7000.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Guayaba*",
-     "promedio": 3450.0,
-     "min": 3400.0,
-     "max": 3500.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Habichuela",
-     "promedio": 3550.0,
-     "min": 3400.0,
-     "max": 3600.0,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Lechuga batavia",
-     "promedio": 1423.0,
-     "min": 1384.6153846153845,
-     "max": 1461.5384615384614,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Lulo",
-     "promedio": 4750.0,
-     "min": 4600.0,
-     "max": 4800.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mandarina*",
-     "promedio": 3560.0,
-     "min": 3520.0,
-     "max": 3600.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mango tommy",
-     "promedio": 5950.0,
-     "min": 5800.0,
-     "max": 6000.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Manzana royal gala",
-     "promedio": 7500.0,
-     "min": 7368.421052631579,
-     "max": 7631.578947368421,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Maracuyá",
-     "promedio": 6900.0,
-     "min": 6800.0,
-     "max": 7000.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Mora de Castilla",
-     "promedio": 6600.0,
-     "min": 6400.0,
-     "max": 6800.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Papa criolla",
-     "promedio": 2125.0,
-     "min": 2083.3333333333335,
-     "max": 2166.6666666666665,
-     "fecha": "2026-10-30",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Papa negra*",
-     "promedio": 3675.0,
-     "min": 3600.0,
-     "max": 3700.0,
-     "fecha": "2026-10-30",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Papaya maradol",
-     "promedio": 2150.0,
-     "min": 2100.0,
-     "max": 2200.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Pepino cohombro",
-     "promedio": 2115.0,
-     "min": 2076.923076923077,
-     "max": 2153.846153846154,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Pimentón",
-     "promedio": 4964.0,
-     "min": 4857.142857142857,
-     "max": 5000.0,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
-    },
-    {
-     "producto": "Piña *",
-     "promedio": 3775.0,
-     "min": 3700.0,
-     "max": 3800.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Plátano hartón verde",
-     "promedio": 2150.0,
-     "min": 2000.0,
-     "max": 2200.0,
-     "fecha": "2026-10-30",
-     "grupo": "TUBERCULOS, RAICES Y PLATANOS"
-    },
-    {
-     "producto": "Tomate de árbol",
-     "promedio": 2652.0,
-     "min": 2640.0,
-     "max": 2688.0,
-     "fecha": "2026-10-30",
-     "grupo": "FRUTAS"
-    },
-    {
-     "producto": "Tomate*",
-     "promedio": 3025.0,
-     "min": 3000.0,
-     "max": 3100.0,
-     "fecha": "2026-10-30",
-     "grupo": "VERDURAS Y HORTALIZAS"
     }
    ]
   }
